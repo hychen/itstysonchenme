@@ -4,10 +4,11 @@ title = 'Tyson Chen — Executable Semantic Order'
 theme = "PaperMod"
 
 [params]
-description = "A personal website showcasing research, work, and standards involvement."
+description = "Research on executable semantic order and the structural conditions that make semantics operational."
 author = "Tyson Chen"
 defaultTheme = "auto"
-ShowShareButtons = true
+
+ShowShareButtons = false
 ShowReadingTime = true
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
@@ -15,71 +16,63 @@ ShowCodeCopyButtons = true
 ShowAllPagesInArchive = true
 ShowPageNums = true
 ShowToc = true
+mainSections = ["posts"]
 
+
+# Homepage content is fully driven by content/_index.md
+# homeInfoParams intentionally omitted
 [params.homeInfoParams]
-Title = "Hi there 👋"
-Content = "Welcome to my personal website. I'm focused on Researching Executable Semantic Order, designing the structural conditions that make semantics operational, auditable, and composable across agents and systems. Find out more about my work in research, startup, and standards involvement."
+Title = ""
+Content = ""
 
 [params.profileMode]
-enabled = true
-title = "Tyson Chen"
-subtitle = "Designing structural conditions for operational semantics, auditable, and composable across agents and systems."
-imageUrl = "/images/profile.png" # User needs to place their profile image at /static/images/profile.png
-imageTitle = "Tyson Chen's Profile Picture"
-imageWidth = 120
-imageHeight = 120
-buttons = [
-  { name = "Archives", url = "/archives/" },
-  { name = "Github", url = "https://github.com/your_github_profile" }
-]
+enabled = false
 
+[[params.socialIcons]]
+name = "orcid"
+url = "https://orcid.org/0009-0008-0338-1861"
 
 [[params.socialIcons]]
 name = "linkedin"
 url = "https://linkedin.com/in/itstysonchen"
+
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com/hychen"
 
 [menu]
+
 [[menu.main]]
 identifier = "about"
 name = "About"
 url = "/about/"
 weight = 10
+
 [[menu.main]]
 identifier = "research"
 name = "Research"
 url = "/research/"
 weight = 20
+
 [[menu.main]]
 identifier = "work"
 name = "Work"
 url = "/work/"
 weight = 30
+
 [[menu.main]]
 identifier = "contact"
 name = "Contact"
 url = "/contact/"
 weight = 40
-[[menu.main]]
-identifier = "archives"
-name = "Archives"
-url = "/archives/"
-weight = 50
-[[menu.main]]
-identifier = "search"
-name = "Search"
-url = "/search/"
-weight = 60
 
 [markup]
-[markup.goldmark]
-  [goldmark.renderer]
-    unsafe = true
-[markup.highlight]
-  noClasses = false
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+  [markup.highlight]
+    noClasses = false
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
-

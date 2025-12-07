@@ -1,0 +1,47 @@
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" | default (.Get "caption") -}}
+{{- $caption := .Get "caption" -}}
+{{- $link := .Get "link" -}}
+{{- $class := .Get "class" -}}
+{{- $align := .Get "align" -}}
+
+{{- $image := .Page.Resources.GetMatch $src -}}
+{{- if not $image -}}
+  {{- $image = resources.Get $src -}}
+{{- end -}}
+
+<figure class="fig-container{{ if $align }} align-{{ $align }}{{ end }}{{ if $class }} {{ $class }}{{ end }}">
+  {{- if $link -}}
+    <a href="{{ $link }}" target="_blank" rel="noopener noreferrer">
+  {{- end -}}
+
+  {{- if $image -}}
+    {{- $small := $image.Resize "480x" -}}
+    {{- $medium := $image.Resize "960x" -}}
+    {{- $large := $image.Resize "1920x" -}}
+    <img
+      loading="lazy"
+      src="{{ $medium.RelPermalink }}"
+      srcset="
+        {{- if ge $image.Width 480 -}}{{ $small.RelPermalink }} 480w,{{- end -}}
+        {{- if ge $image.Width 960 -}}{{ $medium.RelPermalink }} 960w,{{- end -}}
+        {{- if ge $image.Width 1920 -}}{{ $large.RelPermalink }} 1920w,{{- end -}}
+        {{ $image.RelPermalink }} {{ $image.Width }}w
+      "
+      sizes="(min-width: 1024px) 60vw, 100vw"
+      alt="{{ $alt }}"
+      width="{{ $image.Width }}"
+      height="{{ $image.Height }}"
+    />
+  {{- else -}}
+    <img loading="lazy" src="{{ $src | safeURL }}" alt="{{ $alt }}">
+  {{- end -}}
+
+  {{- if $link -}}
+    </a>
+  {{- end -}}
+
+  {{- if $caption -}}
+    <figcaption>{{ $caption | markdownify }}</figcaption>
+  {{- end -}}
+</figure>

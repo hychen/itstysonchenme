@@ -1,19 +1,72 @@
 ---
 title: "Executable Semantic Order"
-weight: 1
+description: "A computational model in which semantics operates as an executable and verifiable ordering principle."
+layout: "page"
+
+showReadingTime: false
+showAuthor: false
+showDate: false
+showBreadcrumbs: true
+showToc: false
 ---
 
-## Theme: Executable Semantic Order
+This research develops the concept of an **executable semantic order**.
 
-"Executable Semantic Order" is the central idea of my research. It explores how abstract "semantics" can be transformed into concrete, operable elements within a system, making them not just interpretations of data, but the very foundation of behavior.
+The central claim is that semantics can function not only as a representational layer, but as an **ordering principle that directly constrains execution**. In such a model, meaning participates in computation as a first-order condition: guiding what actions are permitted, how they compose, and how responsibility is assigned.
 
-This theme primarily defines three core areas:
+Executable semantic order is concerned with the minimal structural requirements under which this becomes possible.
 
-*   **How Semantics Become Constraints**
-    Investigating how semantics transition from passive labels to active rules, directly imposing limitations on the behavior space of machines and agents, ensuring their operation aligns with an intended framework of meaning.
+---
 
-*   **How Semantics Form a Verifiable Basis for Behavior**
-    Exploring behavioral models built upon semantic commitments. When an agent or system claims to adhere to certain semantics, we need mechanisms to verify that its subsequent actions are consistent with that declaration.
+## From Interpretation to Execution
 
-*   **How Semantics Form Computation**
-    Viewing the transformation, inference, and composition of semantics as a new computational process. This is not merely data processing, but computation centered around "meaning" itself, providing a basis for achieving higher levels of machine intelligence.
+Traditional computational systems treat semantics as external:
+as documentation, annotations, or post-hoc interpretation applied by human operators.
+
+This work instead asks:
+
+How can semantic commitments be made *operative*—  
+such that system behavior is shaped by meaning itself, rather than by procedural instructions alone?
+
+Addressing this question requires reframing semantics from an explanatory artifact into a **runtime constraint**.
+
+---
+
+## Ordering Properties
+
+An executable semantic order exhibits three defining properties:
+
+- **Operational**  
+  Semantic structures participate directly in execution control, rather than merely describing behavior.
+
+- **Auditable**  
+  Semantic commitments and their effects must be externally inspectable, replayable, and subject to verification.
+
+- **Composable**  
+  Semantic constraints remain stable under composition across agents, subsystems, and organizational boundaries.
+
+These properties define the boundary between descriptive semantics and executable order.
+
+---
+
+## Scope
+
+The focus of this research is structural rather than applicative.
+
+Specific systems—operating environments, agents, governance mechanisms, or enterprise platforms—are treated as **projections** of executable semantic order under particular constraints.
+
+The core inquiry remains invariant across such instantiations.
+
+---
+
+## Relation to Structures and Systems
+
+Executable semantic order is not implemented directly.
+It is realized through a small set of structural primitives, and manifests through concrete systems when deployed.
+
+- Structural foundations → see [Structural Primitives]({{< ref "research/structures/_index.md" >}})  
+- System-level manifestations → see [System Projections]({{< ref "research/applications/_index.md" >}})
+
+---
+
+This page defines the conceptual nucleus of the research program.

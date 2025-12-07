@@ -1,22 +1,112 @@
 ---
-title: "Structure Layer"
-weight: 2
+title: "Structural Primitives"
+description: "Minimal structures required to realize executable semantic order."
+layout: "page"
+
+showReadingTime: false
+showAuthor: false
+showDate: false
+showBreadcrumbs: true
+showToc: false
 ---
 
-## Structure Layer
+Executable semantic order is not implemented as a single system.
+It is examined through a small set of **structural primitives** that allow semantic commitments to participate in execution, coordination, and verification.
 
-To achieve "Executable Semantic Order," I propose a set of four core components. These structures collectively provide the foundational framework for semantic computation, orchestration, verification, and traceability. This layer is more in-depth, primarily intended for researchers and developers to understand the technical core of the order.
+This section describes those primitives at the level of structure rather than implementation.
 
-### Four Core Structures
+Each primitive addresses a distinct requirement of semantic executability.
+None is sufficient on its own.
 
-1.  [**Semantic ISA (Instruction Set Architecture)**](./semantic-isa/)
-    A semantic instruction set that defines the executable primitives of the semantic order.
+---
 
-2.  [**AgentIDL (Agent Interface Definition Language)**](./agentidl/)
-    A semantic interface layer that provides an orchestration interface for the semantic order.
+## Structural Perspective
 
-3.  [**Identity & Memory Architecture**](./identity/)
-    The subject framework for the order, encompassing identity and memory management for agents.
+The core premise is that semantics becomes executable only when situated within structures that:
 
-4.  [**Semantic Ledger**](./ledger/)
-    A semantic ledger providing a traceable mechanism for the order.
+- admit precise operational interpretation,
+- define bounded responsibility and authority,
+- and remain stable under composition.
+
+From this perspective, the question is not how to encode meaning,
+but how semantic constraints are **positioned within computational structure**.
+
+---
+
+## Core Primitives
+
+### Semantic Instruction Architecture
+
+Executable semantic order presupposes a stable intermediate representation at which semantic intent can be expressed and executed.
+
+A semantic instruction architecture provides:
+- a minimal set of executable semantic units,
+- deterministic correspondence between semantic intent and operational effect,
+- and a verification basis independent of surface language.
+
+→ See [Semantic ISA]({{< ref "semantic-isa.md" >}})
+
+---
+
+### Interface and Composition Layer
+
+Semantic constraints must be composed across agents, tools, and execution environments.
+
+An explicit interface layer clarifies:
+- how semantic commitments are declared and invoked,
+- how execution boundaries are exposed across components,
+- and how orchestration occurs without collapsing semantic intent into procedural code.
+
+→ See [AgentIDL]({{< ref "agentidl.md" >}})
+
+---
+
+### Identity and Memory Structure
+
+Executable semantics presupposes identifiable subjects of action.
+
+An identity and memory structure supports:
+- persistent agent identity,
+- bounded responsibility and authority,
+- and continuity across execution contexts.
+
+Without such structures, semantic commitments cannot be meaningfully attributed or enforced.
+
+→ See [Identity & Memory]({{< ref "identity.md" >}})
+
+---
+
+### Semantic Trace and Ledger
+
+Execution under semantic constraint must remain externally inspectable.
+
+A semantic ledger supports:
+- traceability of semantic commitments and actions,
+- replay and audit of execution histories,
+- and verification against declared constraints.
+
+This structure distinguishes executable order from implicit convention.
+
+→ See [Semantic Ledger]({{< ref "ledger.md" >}})
+
+---
+
+## Structural Minimality
+
+These primitives are intentionally minimal.
+
+They are not imposed as a framework, nor are they tied to a specific technology stack.
+Their purpose is to describe **what must exist** for executable semantic order to be possible, not how such systems should be constructed.
+
+Additional structures may emerge over time, but none substitutes for these foundations.
+
+---
+
+## Relation to Order and Systems
+
+- Conceptual foundation → see [Executable Semantic Order]({{< ref "research/order/_index.md" >}})  
+- System-level projections → see [System Projections]({{< ref "research/applications/_index.md" >}})
+
+---
+
+This section defines the structural boundary conditions of the research.

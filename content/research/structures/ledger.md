@@ -1,20 +1,91 @@
 ---
 title: "Semantic Ledger"
+description: "Trace structures supporting accountability within executable semantic order."
+layout: "page"
+
+showReadingTime: false
+showAuthor: false
+showDate: false
+showBreadcrumbs: true
+showToc: false
 ---
 
-## Semantic Ledger: Traceable Mechanism for Order
+## Semantic Ledger: Trace Structures
 
-The Semantic Ledger is the traceability and audibility mechanism for "Executable Semantic Order." It is a distributed, typically immutable, record-keeping system specifically designed to log key semantic events occurring within the network.
+Executable semantic order presupposes that meaningful actions remain **traceable beyond the moment of execution**.
 
-### Content of Records
+Within the research, the Semantic Ledger is examined as a **trace structure** through which semantic commitments, interactions, and attribution events may be recorded in an externally inspectable manner.
 
-Unlike traditional blockchains that record financial transactions, the Semantic Ledger records:
+It is not treated as a financial ledger or consensus system, but as a structural mechanism for accountability.
 
-*   **Creation of Semantic Commitments**: When an agent publicly commits to a semantic contract, the commitment itself and its metadata (e.g., timestamp, committing party's identity) are recorded.
-*   **Cross-Agent Semantic Interactions**: Key semantic interaction events between two or more agents, such as one agent issuing an `AgentIDL`-based semantic call to another.
-*   **Results of Behavior Verification**: The outcome of verifying whether an agent's behavior aligns with its semantic commitments (whether success or failure) is recorded as trusted third-party proof.
-*   **Attribution of Responsibility Events**: In case of errors or violations, the final attribution of responsibility is recorded.
+---
 
-### Core Value
+## Structural Perspective
 
-The Semantic Ledger provides a shared, trusted "source of truth," enabling complex multi-party AI systems to collaborate without full mutual trust. In the event of issues, it offers clear, reliable traceability. It serves as the technical cornerstone for establishing AI accountability and compliance.
+When semantic commitments participate in execution, the question of *recording* becomes inseparable from the question of *responsibility*.
+
+From this perspective, a ledger structure functions to:
+- preserve evidence of declared commitments,
+- retain traces of interaction and execution,
+- and support later verification independent of model internals.
+
+The emphasis lies on **inspectability and persistence**, not on economic exchange.
+
+---
+
+## Classes of Recorded Events
+
+At the structural level, a semantic ledger is concerned with recording events such as:
+
+### Commitment Declarations
+
+Records that capture when a subject publicly enters a semantic commitment, together with contextual information necessary for later interpretation.
+
+---
+
+### Inter-Agent Semantic Interactions
+
+Records associated with semantically meaningful interactions across agents, where declared interfaces or commitments are invoked.
+
+These interactions are recorded as *events of relevance*, not as low-level execution logs.
+
+---
+
+### Verification Outcomes
+
+Records indicating whether observed behavior aligns with previously declared semantic commitments.
+
+The ledger does not prescribe *how* verification is performed, but preserves the outcome as an inspectable artifact.
+
+---
+
+### Attribution Events
+
+Records that associate specific actions or violations with identifiable subjects.
+
+Such records support post-hoc reasoning about responsibility without assuming perfect foresight or centralized control.
+
+---
+
+## Structural Role and Limits
+
+The Semantic Ledger is not proposed as:
+- a universal blockchain,
+- a consensus protocol,
+- or a complete governance mechanism.
+
+It functions as a **structural support** through which accountability and traceability may be expressed within executable semantic order.
+
+Design choices concerning distribution, immutability, and trust anchors are treated as implementation-dependent.
+
+---
+
+## Relation to Other Structures
+
+- Semantic execution primitives → see [Semantic ISA]({{< ref "semantic-isa.md" >}})  
+- Interface and composition → see [AgentIDL]({{< ref "agentidl.md" >}})  
+- Subject and attribution → see [Identity and Memory]({{< ref "identity.md" >}})
+
+---
+
+This section delineates how semantic actions may remain externally accountable without presupposing specific institutional arrangements.

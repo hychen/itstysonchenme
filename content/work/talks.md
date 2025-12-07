@@ -1,9 +1,16 @@
 ---
 title: "Talks"
+description: "Invited talks and presentations related to executable semantic order."
 ---
 
-## Talks & Presentations
+This section indexes **invited talks, presentations, and lectures** related to executable semantic order and its associated system implications.
 
-Here you will find a collection of my talks, presentations, and lectures on topics related to Executable Semantic Order, multi-agent systems, and digital identity.
+These engagements function as mechanisms for external articulation and clarification.
+They are treated as dissemination contexts rather than as primary research outputs.
 
-*More content coming soon.*
+---
+
+## Record
+
+Talks are included here by reference when relevant.
+The absence of listed items does not indicate inactivity, but reflects the secondary role of talks within the overall research program.

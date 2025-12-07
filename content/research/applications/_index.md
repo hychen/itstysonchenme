@@ -1,27 +1,96 @@
 ---
-title: "Projection Layer"
-weight: 3
+title: "System Projections"
+description: "System forms examined as projections of executable semantic order under real-world constraints."
+layout: "page"
+
+showReadingTime: false
+showAuthor: false
+showDate: false
+showBreadcrumbs: true
+showToc: false
 ---
 
-## Projection Layer
+Executable semantic order is not pursued as an abstract end in itself.
+When examined under practical constraints, it becomes visible through a range of **system-level projections**.
 
-If the "Structure Layer" is the engine of semantic order, then the "Projection Layer" consists of the various vehicles powered by this engine. This layer demonstrates how specific products or system forms emerge when the theory of "Executable Semantic Order" is applied to different domains.
+These projections are not treated as independent research programs.
+They are observed as manifestations of the same underlying order, shaped by differing operational, organizational, and environmental conditions.
 
-These projections are not the main axis of research themselves, but rather **application instances** of the main axis in the real world. They allow visitors to immediately understand how an abstract computational model can give rise to concrete, valuable solutions.
+---
 
-### Key Projection Instances
+## Projection Perspective
 
-*   [**Semantic OS**](./semantic-os/)
-    An operating system that incorporates semantic integrity as a core function.
+From a structural standpoint, system forms emerge when executable semantic order is examined in settings involving:
 
-*   [**Agent Execution Model**](./agent-execution/)
-    A model that provides a secure and predictable execution environment for autonomous agents.
+- persistent execution environments,
+- autonomous or semi-autonomous agents,
+- and conditions where responsibility, coordination, and accountability matter.
 
-*   [**Multi-Agent Governance**](./governance/)
-    A framework for establishing rules and responsibilities in systems composed of multiple independent agents.
+The resulting systems vary in scope and scale, while remaining traceable to a shared architectural lineage.
 
-*   [**AI Workforce Systems**](./ai-workforce/)
-    Systems that organize AI agents into an efficient, collaborative workforce.
+---
 
-*   **Identity-native Computation**
-    An emerging computational paradigm where every computational task is tied to a native, verifiable digital identity.
+## Representative Projections
+
+The following projections are presented illustratively rather than prescriptively.
+
+### Semantic Operating Environments
+
+When semantic constraints are examined at the level of scheduling, isolation, and execution control, operating environments arise in which meaning participates directly in system behavior.
+
+In such environments, semantic integrity is treated as an operational concern rather than an external validation step.
+
+→ See related materials under [Semantic OS]({{< ref "semantic-os.md" >}}).
+
+---
+
+### Agent Execution Models
+
+Executable semantic order gives rise to agent execution models in which behavior is constrained by explicit semantic commitments rather than driven solely by internal heuristics or prompts.
+
+Such models foreground:
+- execution boundaries,
+- responsibility attribution,
+- and continuity across actions and contexts.
+
+→ See related materials under [Agent Execution]({{< ref "agent-execution.md" >}}).
+
+---
+
+### Multi-Agent Governance Mechanisms
+
+In systems composed of multiple independent agents, semantic constraints are encountered as a basis for rule formation, coordination, and accountability.
+
+Governance mechanisms are examined as emergent requirements for maintaining semantic order across agents with partially overlapping authorities.
+
+→ See related materials under [Governance]({{< ref "governance.md" >}}).
+
+---
+
+### Enterprise and Organizational Systems
+
+When examined within organizational contexts, executable semantic order appears in systems where workflows, compliance requirements, and delegation structures are subject to semantic constraint.
+
+Such projections are particularly salient in enterprise and cross-border operational environments.
+
+→ See related materials under [AI Workforce]({{< ref "ai-workforce.md" >}}).
+
+---
+
+## Non-Exhaustiveness
+
+These projections are illustrative rather than exhaustive.
+
+As executable semantic order is examined in additional domains, further system forms may become apparent.
+Such expansion does not modify the underlying research structure, but reflects its applicability across domains.
+
+---
+
+## Relation to Order and Structures
+
+- Conceptual foundation → see [Executable Semantic Order]({{< ref "research/order/_index.md" >}})  
+- Structural primitives → see [Structural Primitives]({{< ref "research/structures/_index.md" >}})
+
+---
+
+This section marks the boundary between foundational structure and system-level instantiation as an object of analysis.

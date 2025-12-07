@@ -1,7 +1,29 @@
 ---
 title: "Projects"
+description: "Bounded project contexts where executable semantic order is exercised in practice."
 ---
 
-## Projects
+This section indexes **bounded project contexts** in which aspects of executable semantic order are explored, prototyped, or tested under specific constraints.
 
-A curated list of projects I have worked on, ranging from open-source contributions to specific research implementations. More details will be added soon.
+The projects referenced here are not treated as standalone products or long-term programs.
+They function as temporary or situational environments for examining structural assumptions in practice.
+
+---
+
+## Project Contexts
+
+Projects listed here may take various forms, including:
+- exploratory prototypes,
+- open-source or collaborative implementations,
+- applied research experiments,
+- or short- to medium-term technical initiatives.
+
+Inclusion reflects relevance to the research trajectory rather than completeness or outcome.
+
+---
+
+## Record
+
+Specific projects are referenced when their context is materially relevant.
+
+This page does not aim to enumerate all past or ongoing work, and may remain minimal by design.

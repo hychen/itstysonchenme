@@ -1,16 +1,10 @@
 ---
 title: "Researching Executable Semantic Order"
-description: "Designing the structural conditions that make semantics operational, auditable, and composable across agents and systems."
+description: "A research program on making semantics executable, auditable, and composable across agents and systems."
 ---
 
-## Researching Executable Semantic Order
+I research how **semantic structures can be made executable**.
 
-My work focuses on designing the structural conditions that make semantics **operational, auditable, and composable** across agents and systems. This executable semantic order forms a new computational model where meaning becomes a practical constraint on system behavior.
+Rather than treating semantics as a descriptive or interpretive layer, my work investigates the structural conditions under which meaning operates as a concrete constraint on system behavior—governing what actions are possible, how they compose, and how responsibility is assigned.
 
-### Representative Projections (Byproducts)
-
-This central theme projects into several key areas of implementation and research:
-
-*   **Semantic OS**: An operating system where semantic integrity is a core scheduling and execution primitive.
-*   **Agent Identity & Execution**: A framework defining how autonomous agents can operate with verifiable identities and predictable behaviors based on semantic commitments.
-*   **Multi-Agent Governance**: A model for establishing rules, responsibilities, and accountability in complex systems composed of multiple, independent AI agents.
+This line of research defines **executable semantic order** as a computational model in which semantics participates directly in execution, verification, and coordination across agents and systems.

@@ -2,16 +2,28 @@
 title: "Contact"
 ---
 
-## Contact
+Communication is welcomed within appropriate scope.
 
-You can reach me through the following channels:
+- **Email**  
+  Primary channel for research discussion and technical correspondence.
 
-*   **Email**: `[Your Email Address]`
-*   **LinkedIn**: `[Link to your LinkedIn profile]`
-*   **GitHub**: `[Link to your GitHub profile]`
+- **LinkedIn**  
+  For professional connection and organizational context.
 
-For specific inquiries, please direct them accordingly:
-*   **Research Collaborations**: Please use my academic or personal email.
-*   **Business & SlashLife AI**: Please contact me via my corporate email or LinkedIn.
+- **GitHub**  
+  For code, references, and implementation-related material.
 
-Thank you.
+---
+
+### Contextual Inquiries
+
+- **Research and Collaboration**  
+  Please use email for focused discussion or exploratory exchange.
+
+- **Applied Work and SlashLife AI**  
+  LinkedIn or direct corporate contact is preferred.
+
+---
+
+This site serves as a point of reference.
+Direct, scoped communication is appreciated.
