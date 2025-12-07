@@ -9,7 +9,7 @@ The materials are archived externally as figshare collections.
 Each collection represents a coherent body of research artifacts at a particular stage, scope, or focus area.
 
 The website does not mirror individual entries.
-Canonical versions, metadata, and version history are maintained on figshare.
+Canonical versions, metadata, and version history are maintained on [figshare](https://figshare.com/authors/Hsin-Yi_Chen/22680071)
 
 ---
 
