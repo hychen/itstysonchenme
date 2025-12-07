@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Structure Layer | Tyson Chen — Executable Semantic Order</title>
+<meta name="keywords" content="">
+<meta name="description" content="Structure Layer
+To achieve &ldquo;Executable Semantic Order,&rdquo; I propose a set of four core components. These structures collectively provide the foundational framework for semantic computation, orchestration, verification, and traceability. This layer is more in-depth, primarily intended for researchers and developers to understand the technical core of the order.
+Four Core Structures
+
+
+Semantic ISA (Instruction Set Architecture)
+A semantic instruction set that defines the executable primitives of the semantic order.
+
+
+AgentIDL (Agent Interface Definition Language)
+A semantic interface layer that provides an orchestration interface for the semantic order.">
+<meta name="author" content="Tyson Chen">
+<link rel="canonical" href="http://localhost:1313/research/structures/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.343cc480b9ffc8f04ccbe5e968ad674880cab773ec19905e93033065c1e7a804.css" integrity="sha256-NDzEgLn/yPBMy&#43;XpaK1nSIDKt3PsGZBekwMwZcHnqAQ=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/research/structures/index.xml" title="rss">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/research/structures/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+        @media (prefers-color-scheme: light) {
+            .list::-webkit-scrollbar-thumb {
+                border-color: var(--code-bg);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script>
+</head>
+<body class="list" id="top">
+    <header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:1313/" accesskey="h" title="Tyson Chen — Executable Semantic Order (Alt + H)">Tyson Chen — Executable Semantic Order</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="http://localhost:1313/about/" title="About">
+                    <span>About</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/research/" title="Research">
+                    <span>Research</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/work/" title="Work">
+                    <span>Work</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/contact/" title="Contact">
+                    <span>Contact</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/archives/" title="Archives">
+                    <span>Archives</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/search/" title="Search (Alt &#43; /)" accesskey=/>
+                    <span>Search</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+<header class="page-header"><div class="breadcrumbs"><a href="http://localhost:1313/">Home</a>&nbsp;»&nbsp;<a href="http://localhost:1313/research/">Research</a></div>
+  <h1>
+    Structure Layer
+  </h1>
+</header>
+<div class="post-content"><h2 id="structure-layer">Structure Layer<a hidden class="anchor" aria-hidden="true" href="#structure-layer">#</a></h2>
+<p>To achieve &ldquo;Executable Semantic Order,&rdquo; I propose a set of four core components. These structures collectively provide the foundational framework for semantic computation, orchestration, verification, and traceability. This layer is more in-depth, primarily intended for researchers and developers to understand the technical core of the order.</p>
+<h3 id="four-core-structures">Four Core Structures<a hidden class="anchor" aria-hidden="true" href="#four-core-structures">#</a></h3>
+<ol>
+<li>
+<p><a href="./semantic-isa/"><strong>Semantic ISA (Instruction Set Architecture)</strong></a>
+A semantic instruction set that defines the executable primitives of the semantic order.</p>
+</li>
+<li>
+<p><a href="./agentidl/"><strong>AgentIDL (Agent Interface Definition Language)</strong></a>
+A semantic interface layer that provides an orchestration interface for the semantic order.</p>
+</li>
+<li>
+<p><a href="./identity/"><strong>Identity &amp; Memory Architecture</strong></a>
+The subject framework for the order, encompassing identity and memory management for agents.</p>
+</li>
+<li>
+<p><a href="./ledger/"><strong>Semantic Ledger</strong></a>
+A semantic ledger providing a traceable mechanism for the order.</p>
+</li>
+</ol>
+
+
+</div>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">AgentIDL
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>AgentIDL: Semantic Interface Layer The Agent Interface Definition Language (AgentIDL) is key to achieving semantic interoperability across agents and systems. It provides a standardized way to describe an agent’s semantic capabilities, its acceptable semantic commitments, and its behavioral patterns.
+Core Functions Capability Abstraction: AgentIDL allows agents to declare which semantic concepts they can “understand” and “execute” without exposing their internal implementation details. For example, a payment agent might declare support for urn:slashlife:payment:execute semantics. Interface Standardization: It provides a common communication contract for agents built by different developers and organizations. Systems can dynamically discover and understand another agent’s semantic interface for secure interaction. Semantic Orchestration: Based on AgentIDL, higher-level applications or orchestrators can arrange the semantic capabilities of multiple agents into complex workflows. AgentIDL acts as the glue that connects independent semantic entities into an ordered, composable network.
+</p>
+  </div>
+  <footer class="entry-footer"><span>1 min</span>&nbsp;·&nbsp;<span>Tyson Chen</span></footer>
+  <a class="entry-link" aria-label="post link to AgentIDL" href="http://localhost:1313/research/structures/agentidl/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Identity &amp; Memory Architecture
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Identity &amp; Memory Architecture: Subject Framework for Order In “Executable Semantic Order,” every interacting subject (whether human, AI agent, or organization) must possess a stable, verifiable identity. The Identity &amp; Memory Architecture is designed for this purpose.
+Core Components Decentralized Identity (DID): Each agent owns a self-sovereign digital identity, making its claims and proofs cryptographically verifiable. This identity serves as the anchor for all its actions within the semantic network.
+...</p>
+  </div>
+  <footer class="entry-footer"><span>1 min</span>&nbsp;·&nbsp;<span>Tyson Chen</span></footer>
+  <a class="entry-link" aria-label="post link to Identity & Memory Architecture" href="http://localhost:1313/research/structures/identity/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Semantic ISA
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Semantic ISA: Semantic Instruction Set Architecture The Semantic Instruction Set Architecture (Semantic ISA) is the foundation of “Executable Semantic Order.” It defines a standardized set of semantic primitives that can be directly executed by machines.
+Just as traditional computer instruction sets (e.g., x86, ARM) define basic operations a processor can understand (addition, move, compare), the Semantic ISA defines fundamental operations for processing “meaning” itself, such as:
+Commit(semantic_graph): Committing to follow a specific semantic graph. Verify(behavior_trace, semantic_graph): Verifying if a behavior trace conforms to a specified semantic graph. Compose(semantic_graph_A, semantic_graph_B): Composing two independent semantic graphs into a new, higher-level semantic. Entail(semantic_A, semantic_B): Inferring if semantic A entails semantic B. This instruction set makes semantic operations atomic, standardized, and a stable foundation that upper-layer applications and agents can invoke.
+</p>
+  </div>
+  <footer class="entry-footer"><span>1 min</span>&nbsp;·&nbsp;<span>Tyson Chen</span></footer>
+  <a class="entry-link" aria-label="post link to Semantic ISA" href="http://localhost:1313/research/structures/semantic-isa/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Semantic Ledger
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Semantic Ledger: Traceable Mechanism for Order The Semantic Ledger is the traceability and audibility mechanism for “Executable Semantic Order.” It is a distributed, typically immutable, record-keeping system specifically designed to log key semantic events occurring within the network.
+Content of Records Unlike traditional blockchains that record financial transactions, the Semantic Ledger records:
+Creation of Semantic Commitments: When an agent publicly commits to a semantic contract, the commitment itself and its metadata (e.g., timestamp, committing party’s identity) are recorded. Cross-Agent Semantic Interactions: Key semantic interaction events between two or more agents, such as one agent issuing an AgentIDL-based semantic call to another. Results of Behavior Verification: The outcome of verifying whether an agent’s behavior aligns with its semantic commitments (whether success or failure) is recorded as trusted third-party proof. Attribution of Responsibility Events: In case of errors or violations, the final attribution of responsibility is recorded. Core Value The Semantic Ledger provides a shared, trusted “source of truth,” enabling complex multi-party AI systems to collaborate without full mutual trust. In the event of issues, it offers clear, reliable traceability. It serves as the technical cornerstone for establishing AI accountability and compliance.
+</p>
+  </div>
+  <footer class="entry-footer"><span>1 min</span>&nbsp;·&nbsp;<span>Tyson Chen</span></footer>
+  <a class="entry-link" aria-label="post link to Semantic Ledger" href="http://localhost:1313/research/structures/ledger/"></a>
+</article>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2025 <a href="http://localhost:1313/">Tyson Chen — Executable Semantic Order</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

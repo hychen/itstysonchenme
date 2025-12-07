@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Structure Layer on Tyson Chen — Executable Semantic Order</title>
+    <link>http://localhost:1313/research/structures/</link>
+    <description>Recent content in Structure Layer on Tyson Chen — Executable Semantic Order</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/research/structures/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AgentIDL</title>
+      <link>http://localhost:1313/research/structures/agentidl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/structures/agentidl/</guid>
+      <description>&lt;h2 id=&#34;agentidl-semantic-interface-layer&#34;&gt;AgentIDL: Semantic Interface Layer&lt;/h2&gt;
+&lt;p&gt;The Agent Interface Definition Language (AgentIDL) is key to achieving semantic interoperability across agents and systems. It provides a standardized way to describe an agent&amp;rsquo;s semantic capabilities, its acceptable semantic commitments, and its behavioral patterns.&lt;/p&gt;
+&lt;h3 id=&#34;core-functions&#34;&gt;Core Functions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Capability Abstraction&lt;/strong&gt;: AgentIDL allows agents to declare which semantic concepts they can &amp;ldquo;understand&amp;rdquo; and &amp;ldquo;execute&amp;rdquo; without exposing their internal implementation details. For example, a payment agent might declare support for &lt;code&gt;urn:slashlife:payment:execute&lt;/code&gt; semantics.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Interface Standardization&lt;/strong&gt;: It provides a common communication contract for agents built by different developers and organizations. Systems can dynamically discover and understand another agent&amp;rsquo;s semantic interface for secure interaction.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Semantic Orchestration&lt;/strong&gt;: Based on AgentIDL, higher-level applications or orchestrators can arrange the semantic capabilities of multiple agents into complex workflows.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;AgentIDL acts as the glue that connects independent semantic entities into an ordered, composable network.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Identity &amp; Memory Architecture</title>
+      <link>http://localhost:1313/research/structures/identity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/structures/identity/</guid>
+      <description>&lt;h2 id=&#34;identity--memory-architecture-subject-framework-for-order&#34;&gt;Identity &amp;amp; Memory Architecture: Subject Framework for Order&lt;/h2&gt;
+&lt;p&gt;In &amp;ldquo;Executable Semantic Order,&amp;rdquo; every interacting subject (whether human, AI agent, or organization) must possess a stable, verifiable identity. The Identity &amp;amp; Memory Architecture is designed for this purpose.&lt;/p&gt;
+&lt;h3 id=&#34;core-components&#34;&gt;Core Components&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Decentralized Identity (DID)&lt;/strong&gt;: Each agent owns a self-sovereign digital identity, making its claims and proofs cryptographically verifiable. This identity serves as the anchor for all its actions within the semantic network.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Semantic ISA</title>
+      <link>http://localhost:1313/research/structures/semantic-isa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/structures/semantic-isa/</guid>
+      <description>&lt;h2 id=&#34;semantic-isa-semantic-instruction-set-architecture&#34;&gt;Semantic ISA: Semantic Instruction Set Architecture&lt;/h2&gt;
+&lt;p&gt;The Semantic Instruction Set Architecture (Semantic ISA) is the foundation of &amp;ldquo;Executable Semantic Order.&amp;rdquo; It defines a standardized set of semantic primitives that can be directly executed by machines.&lt;/p&gt;
+&lt;p&gt;Just as traditional computer instruction sets (e.g., x86, ARM) define basic operations a processor can understand (addition, move, compare), the Semantic ISA defines fundamental operations for processing &amp;ldquo;meaning&amp;rdquo; itself, such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Commit(semantic_graph)&lt;/code&gt;: Committing to follow a specific semantic graph.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Verify(behavior_trace, semantic_graph)&lt;/code&gt;: Verifying if a behavior trace conforms to a specified semantic graph.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Compose(semantic_graph_A, semantic_graph_B)&lt;/code&gt;: Composing two independent semantic graphs into a new, higher-level semantic.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Entail(semantic_A, semantic_B)&lt;/code&gt;: Inferring if semantic A entails semantic B.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This instruction set makes semantic operations atomic, standardized, and a stable foundation that upper-layer applications and agents can invoke.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Semantic Ledger</title>
+      <link>http://localhost:1313/research/structures/ledger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/structures/ledger/</guid>
+      <description>&lt;h2 id=&#34;semantic-ledger-traceable-mechanism-for-order&#34;&gt;Semantic Ledger: Traceable Mechanism for Order&lt;/h2&gt;
+&lt;p&gt;The Semantic Ledger is the traceability and audibility mechanism for &amp;ldquo;Executable Semantic Order.&amp;rdquo; It is a distributed, typically immutable, record-keeping system specifically designed to log key semantic events occurring within the network.&lt;/p&gt;
+&lt;h3 id=&#34;content-of-records&#34;&gt;Content of Records&lt;/h3&gt;
+&lt;p&gt;Unlike traditional blockchains that record financial transactions, the Semantic Ledger records:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Creation of Semantic Commitments&lt;/strong&gt;: When an agent publicly commits to a semantic contract, the commitment itself and its metadata (e.g., timestamp, committing party&amp;rsquo;s identity) are recorded.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cross-Agent Semantic Interactions&lt;/strong&gt;: Key semantic interaction events between two or more agents, such as one agent issuing an &lt;code&gt;AgentIDL&lt;/code&gt;-based semantic call to another.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Results of Behavior Verification&lt;/strong&gt;: The outcome of verifying whether an agent&amp;rsquo;s behavior aligns with its semantic commitments (whether success or failure) is recorded as trusted third-party proof.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Attribution of Responsibility Events&lt;/strong&gt;: In case of errors or violations, the final attribution of responsibility is recorded.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;core-value&#34;&gt;Core Value&lt;/h3&gt;
+&lt;p&gt;The Semantic Ledger provides a shared, trusted &amp;ldquo;source of truth,&amp;rdquo; enabling complex multi-party AI systems to collaborate without full mutual trust. In the event of issues, it offers clear, reliable traceability. It serves as the technical cornerstone for establishing AI accountability and compliance.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

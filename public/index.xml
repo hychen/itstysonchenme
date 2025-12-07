@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Researching Executable Semantic Order on Tyson Chen — Executable Semantic Order</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Researching Executable Semantic Order on Tyson Chen — Executable Semantic Order</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agent Execution Model</title>
+      <link>http://localhost:1313/research/applications/agent-execution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/applications/agent-execution/</guid>
+      <description>&lt;h2 id=&#34;projection-agent-execution-model&#34;&gt;Projection: Agent Execution Model&lt;/h2&gt;
+&lt;p&gt;The Agent Execution Model focuses on a core problem: how can an autonomous AI agent execute safely and reliably in an open environment? This model is the concrete application of &amp;ldquo;Executable Semantic Order&amp;rdquo; to the lifecycle management of individual agents.&lt;/p&gt;
+&lt;h3 id=&#34;model-components&#34;&gt;Model Components&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Execution Container&lt;/strong&gt;: Each agent runs within an isolated container. This container not only provides computational resources but, more importantly, acts as a &lt;strong&gt;Semantic Firewall&lt;/strong&gt; between the agent and the external world.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Intent-to-Execution Layer&lt;/strong&gt;: An agent&amp;rsquo;s abstract intent (e.g., &amp;ldquo;buy a flight ticket&amp;rdquo;) is translated at this layer into a series of concrete operations compliant with the &lt;code&gt;Semantic ISA&lt;/code&gt;. This process ensures consistency between intent and actual behavior.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Behavior Monitoring &amp;amp; Verification&lt;/strong&gt;: A resident monitor continuously observes the agent&amp;rsquo;s behavior and uses trusted records provided by the &lt;code&gt;Semantic Ledger&lt;/code&gt; to verify in real-time whether its actions deviate from its committed semantic contract.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dynamic Capability Management&lt;/strong&gt;: An agent&amp;rsquo;s capabilities are not static. It can dynamically request temporary, minimal execution permissions from external authorization services for specific tasks (e.g., only gaining access to a payment API when making a payment), releasing them immediately after the task is complete.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This model aims to extend the concept of &amp;ldquo;Continuous Integration/Continuous Deployment (CI/CD)&amp;rdquo; from traditional software development to &amp;ldquo;Continuous Compliance/Continuous Trust (CC/CT)&amp;rdquo; for AI agents.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AgentIDL</title>
+      <link>http://localhost:1313/research/structures/agentidl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/structures/agentidl/</guid>
+      <description>&lt;h2 id=&#34;agentidl-semantic-interface-layer&#34;&gt;AgentIDL: Semantic Interface Layer&lt;/h2&gt;
+&lt;p&gt;The Agent Interface Definition Language (AgentIDL) is key to achieving semantic interoperability across agents and systems. It provides a standardized way to describe an agent&amp;rsquo;s semantic capabilities, its acceptable semantic commitments, and its behavioral patterns.&lt;/p&gt;
+&lt;h3 id=&#34;core-functions&#34;&gt;Core Functions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Capability Abstraction&lt;/strong&gt;: AgentIDL allows agents to declare which semantic concepts they can &amp;ldquo;understand&amp;rdquo; and &amp;ldquo;execute&amp;rdquo; without exposing their internal implementation details. For example, a payment agent might declare support for &lt;code&gt;urn:slashlife:payment:execute&lt;/code&gt; semantics.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Interface Standardization&lt;/strong&gt;: It provides a common communication contract for agents built by different developers and organizations. Systems can dynamically discover and understand another agent&amp;rsquo;s semantic interface for secure interaction.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Semantic Orchestration&lt;/strong&gt;: Based on AgentIDL, higher-level applications or orchestrators can arrange the semantic capabilities of multiple agents into complex workflows.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;AgentIDL acts as the glue that connects independent semantic entities into an ordered, composable network.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI Workforce Systems</title>
+      <link>http://localhost:1313/research/applications/ai-workforce/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/applications/ai-workforce/</guid>
+      <description>&lt;h2 id=&#34;projection-ai-workforce-systems&#34;&gt;Projection: AI Workforce Systems&lt;/h2&gt;
+&lt;p&gt;AI Workforce Systems are a direct outcome of applying &amp;ldquo;Executable Semantic Order&amp;rdquo; to enterprise operations. They no longer treat AI as a standalone tool but organize it into a structured, manageable virtual workforce.&lt;/p&gt;
+&lt;p&gt;The core of this system is to break down enterprise business processes into a series of clearly defined &lt;strong&gt;Semantic Roles&lt;/strong&gt;, and then assign AI agents to these roles.&lt;/p&gt;
+&lt;h3 id=&#34;system-characteristics&#34;&gt;System Characteristics&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Decoupling of Roles and Agents&lt;/strong&gt;: Enterprises define roles and their responsibilities (e.g., &amp;ldquo;Financial Auditor,&amp;rdquo; &amp;ldquo;Inventory Checker&amp;rdquo;), which are standardized via &lt;code&gt;AgentIDL&lt;/code&gt;. Any AI agent conforming to the semantic interface of that role can fill it, allowing enterprises to flexibly replace underlying AI models or vendors.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Semantic Workflows&lt;/strong&gt;: Business processes are no longer hard-coded but defined by the interaction of a series of semantic roles. For example, an &amp;ldquo;order processing&amp;rdquo; workflow might involve a &amp;ldquo;customer service agent&amp;rdquo; receiving an order, passing it to an &amp;ldquo;inventory agent&amp;rdquo; to check stock, and then a &amp;ldquo;logistics agent&amp;rdquo; arranging shipment.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unified Monitoring &amp;amp; Auditing&lt;/strong&gt;: Managers can monitor the performance of the entire AI workforce from a unified dashboard. Since all interactions are based on a traceable &lt;code&gt;Semantic Ledger&lt;/code&gt;, any delays, errors, or compliance issues at any point can be precisely located to specific agents and timestamps.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Automated Performance &amp;amp; Compliance Review&lt;/strong&gt;: The system can automatically evaluate each AI agent&amp;rsquo;s performance (e.g., average time to process a request) and whether its behavior is 100% compliant with the company&amp;rsquo;s semantic compliance framework.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;AI Workforce Systems aim to transform AI from a disparate &amp;ldquo;toolset&amp;rdquo; into an enterprise-grade, manageable &amp;ldquo;productivity asset.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Identity &amp; Memory Architecture</title>
+      <link>http://localhost:1313/research/structures/identity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/structures/identity/</guid>
+      <description>&lt;h2 id=&#34;identity--memory-architecture-subject-framework-for-order&#34;&gt;Identity &amp;amp; Memory Architecture: Subject Framework for Order&lt;/h2&gt;
+&lt;p&gt;In &amp;ldquo;Executable Semantic Order,&amp;rdquo; every interacting subject (whether human, AI agent, or organization) must possess a stable, verifiable identity. The Identity &amp;amp; Memory Architecture is designed for this purpose.&lt;/p&gt;
+&lt;h3 id=&#34;core-components&#34;&gt;Core Components&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Decentralized Identity (DID)&lt;/strong&gt;: Each agent owns a self-sovereign digital identity, making its claims and proofs cryptographically verifiable. This identity serves as the anchor for all its actions within the semantic network.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Media</title>
+      <link>http://localhost:1313/work/media/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/work/media/</guid>
+      <description>&lt;h2 id=&#34;media--interviews&#34;&gt;Media &amp;amp; Interviews&lt;/h2&gt;
+&lt;p&gt;A collection of media appearances, interviews, and articles where I discuss my work and the broader implications of AI and semantic technologies.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Content is being organized and will be available shortly.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Multi-Agent Governance</title>
+      <link>http://localhost:1313/research/applications/governance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/applications/governance/</guid>
+      <description>&lt;h2 id=&#34;projection-multi-agent-governance&#34;&gt;Projection: Multi-Agent Governance&lt;/h2&gt;
+&lt;p&gt;When a large number of autonomous AI agents (possibly from different organizations) need to collaborate or coexist in the same digital space, chaos and conflict are inevitable. The Multi-Agent Governance framework is a projection of &amp;ldquo;Executable Semantic Order&amp;rdquo; in addressing this systemic problem.&lt;/p&gt;
+&lt;p&gt;It is not a single piece of software but a combination of institutional design and technical implementation.&lt;/p&gt;
+&lt;h3 id=&#34;core-mechanisms&#34;&gt;Core Mechanisms&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Semantic Registry&lt;/strong&gt;: A public, trusted registry where all agents can publish their &lt;code&gt;AgentIDL&lt;/code&gt; (semantic interfaces) and the public governance protocols they are willing to abide by (e.g., a semantic framework for data privacy).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dynamic Coalition Formation&lt;/strong&gt;: Agents can dynamically form &amp;ldquo;coalitions&amp;rdquo; based on shared goals or semantic commitments. Coalitions can share more detailed rules and trust relationships internally. For example, a &amp;ldquo;supply chain coalition&amp;rdquo; composed of logistics, warehousing, and retail agents.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Layered Accountability Model&lt;/strong&gt;: When problems arise (e.g., a delayed shipment), the governance framework provides a layered accountability mechanism.
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Individual Responsibility&lt;/strong&gt;: First, trace back via the &lt;code&gt;Semantic Ledger&lt;/code&gt; to identify which specific agent&amp;rsquo;s behavior deviated from its commitment.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Coalition Responsibility&lt;/strong&gt;: If the problem stems from a flaw in internal coalition rules, the coalition itself bears responsibility.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Platform Responsibility&lt;/strong&gt;: If the problem is platform-level (e.g., a bug in the &lt;code&gt;Semantic OS&lt;/code&gt;), the platform provider is responsible.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Automated Dispute Resolution&lt;/strong&gt;: Minor semantic conflicts or violations can be automatically resolved by specialized &amp;ldquo;arbitration agents&amp;rdquo; based on predefined governance rules, without human intervention.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This framework aims to transform a chaotic &amp;ldquo;agent society&amp;rdquo; into an ordered, efficient, and clearly accountable &amp;ldquo;agent economy.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Papers &amp; Notes</title>
+      <link>http://localhost:1313/work/papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/work/papers/</guid>
+      <description>&lt;h2 id=&#34;papers--notes&#34;&gt;Papers &amp;amp; Notes&lt;/h2&gt;
+&lt;p&gt;This section archives my publications, working papers, and research notes, organized along the central research axis of Executable Semantic Order.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;On the Axioms of Computable Ontology&lt;/strong&gt;
+&lt;em&gt;Abstract: This paper lays the foundational axioms for a system where ontological statements can be computationally verified and executed.&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Notes on Semantic Generative Models&lt;/strong&gt;
+&lt;em&gt;Abstract: A collection of thoughts on models that don&amp;rsquo;t just generate data, but generate structures of meaning that can be used to constrain system behavior.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/work/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/work/projects/</guid>
+      <description>&lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;
+&lt;p&gt;A curated list of projects I have worked on, ranging from open-source contributions to specific research implementations. More details will be added soon.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Semantic ISA</title>
+      <link>http://localhost:1313/research/structures/semantic-isa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/structures/semantic-isa/</guid>
+      <description>&lt;h2 id=&#34;semantic-isa-semantic-instruction-set-architecture&#34;&gt;Semantic ISA: Semantic Instruction Set Architecture&lt;/h2&gt;
+&lt;p&gt;The Semantic Instruction Set Architecture (Semantic ISA) is the foundation of &amp;ldquo;Executable Semantic Order.&amp;rdquo; It defines a standardized set of semantic primitives that can be directly executed by machines.&lt;/p&gt;
+&lt;p&gt;Just as traditional computer instruction sets (e.g., x86, ARM) define basic operations a processor can understand (addition, move, compare), the Semantic ISA defines fundamental operations for processing &amp;ldquo;meaning&amp;rdquo; itself, such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Commit(semantic_graph)&lt;/code&gt;: Committing to follow a specific semantic graph.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Verify(behavior_trace, semantic_graph)&lt;/code&gt;: Verifying if a behavior trace conforms to a specified semantic graph.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Compose(semantic_graph_A, semantic_graph_B)&lt;/code&gt;: Composing two independent semantic graphs into a new, higher-level semantic.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Entail(semantic_A, semantic_B)&lt;/code&gt;: Inferring if semantic A entails semantic B.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This instruction set makes semantic operations atomic, standardized, and a stable foundation that upper-layer applications and agents can invoke.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Semantic Ledger</title>
+      <link>http://localhost:1313/research/structures/ledger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/structures/ledger/</guid>
+      <description>&lt;h2 id=&#34;semantic-ledger-traceable-mechanism-for-order&#34;&gt;Semantic Ledger: Traceable Mechanism for Order&lt;/h2&gt;
+&lt;p&gt;The Semantic Ledger is the traceability and audibility mechanism for &amp;ldquo;Executable Semantic Order.&amp;rdquo; It is a distributed, typically immutable, record-keeping system specifically designed to log key semantic events occurring within the network.&lt;/p&gt;
+&lt;h3 id=&#34;content-of-records&#34;&gt;Content of Records&lt;/h3&gt;
+&lt;p&gt;Unlike traditional blockchains that record financial transactions, the Semantic Ledger records:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Creation of Semantic Commitments&lt;/strong&gt;: When an agent publicly commits to a semantic contract, the commitment itself and its metadata (e.g., timestamp, committing party&amp;rsquo;s identity) are recorded.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cross-Agent Semantic Interactions&lt;/strong&gt;: Key semantic interaction events between two or more agents, such as one agent issuing an &lt;code&gt;AgentIDL&lt;/code&gt;-based semantic call to another.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Results of Behavior Verification&lt;/strong&gt;: The outcome of verifying whether an agent&amp;rsquo;s behavior aligns with its semantic commitments (whether success or failure) is recorded as trusted third-party proof.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Attribution of Responsibility Events&lt;/strong&gt;: In case of errors or violations, the final attribution of responsibility is recorded.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;core-value&#34;&gt;Core Value&lt;/h3&gt;
+&lt;p&gt;The Semantic Ledger provides a shared, trusted &amp;ldquo;source of truth,&amp;rdquo; enabling complex multi-party AI systems to collaborate without full mutual trust. In the event of issues, it offers clear, reliable traceability. It serves as the technical cornerstone for establishing AI accountability and compliance.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Semantic OS</title>
+      <link>http://localhost:1313/research/applications/semantic-os/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/applications/semantic-os/</guid>
+      <description>&lt;h2 id=&#34;projection-semantic-os&#34;&gt;Projection: Semantic OS&lt;/h2&gt;
+&lt;p&gt;The Semantic OS is a product that implements the philosophy of &amp;ldquo;Executable Semantic Order&amp;rdquo; at the operating system level. It not only manages hardware resources (CPU, memory) but, more importantly, treats &lt;strong&gt;Semantic Integrity&lt;/strong&gt; as a first-class citizen.&lt;/p&gt;
+&lt;h3 id=&#34;core-features&#34;&gt;Core Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Semantic Scheduler&lt;/strong&gt;: The OS scheduler considers not only process priority but also verifies whether the process (or agent) behavior aligns with its declared semantic commitments. Processes violating semantics may be demoted, suspended, or even terminated.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Identity-Based Resource Access&lt;/strong&gt;: All requests for file, network, or device access must originate from an agent with a verifiable identity and comply with its granted semantic permissions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kernel-Level Semantic Ledger Client&lt;/strong&gt;: The OS kernel directly interacts with the Semantic Ledger, registering critical system events (e.g., process creation, permission changes) on the ledger, providing a very high level of system audibility.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Semantic Sandbox&lt;/strong&gt;: Provides an execution environment for untrusted agents that enforces strict semantic constraints, ensuring their behavior does not exceed expected boundaries.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The goal of Semantic OS is to fundamentally create a safer, more predictable, and more accountable computing environment.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SlashLife AI</title>
+      <link>http://localhost:1313/work/slashlife-ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/work/slashlife-ai/</guid>
+      <description>&lt;h2 id=&#34;slashlife-ai-commercial-projection-of-semantic-order&#34;&gt;SlashLife AI: Commercial Projection of Semantic Order&lt;/h2&gt;
+&lt;h3 id=&#34;31-positioning&#34;&gt;3.1 Positioning&lt;/h3&gt;
+&lt;p&gt;SlashLife AI is not a standalone product or service, but rather the direct application and commercial manifestation of my core research philosophy—&amp;ldquo;Executable Semantic Order&amp;rdquo;—in the enterprise domain.&lt;/p&gt;
+&lt;p&gt;It aims to answer a core question: &lt;strong&gt;How can multiple AI agents (from different providers) in an enterprise collaborate safely, compliantly, and efficiently?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Our positioning is to be the &lt;strong&gt;Semantic Middleware&lt;/strong&gt; for enterprise AI operations, rather than replacing existing enterprise AI models or applications.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Standards &amp; Governance</title>
+      <link>http://localhost:1313/work/standards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/work/standards/</guid>
+      <description>&lt;h2 id=&#34;standards--governance-bringing-semantic-order-to-institutions&#34;&gt;Standards &amp;amp; Governance: Bringing Semantic Order to Institutions&lt;/h2&gt;
+&lt;p&gt;The value of technology is ultimately reflected in how it integrates with existing institutions and drives their evolution. A core objective of &amp;ldquo;Executable Semantic Order&amp;rdquo; is to provide a solid, verifiable technical foundation for the rapidly developing AI field, supporting future governance frameworks.&lt;/p&gt;
+&lt;p&gt;This page demonstrates how my research interacts with global standardization organizations and governance initiatives.&lt;/p&gt;
+&lt;h3 id=&#34;41-roles--participation&#34;&gt;4.1 Roles &amp;amp; Participation&lt;/h3&gt;
+&lt;p&gt;I primarily contribute my research in the following areas:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Talks</title>
+      <link>http://localhost:1313/work/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/work/talks/</guid>
+      <description>&lt;h2 id=&#34;talks--presentations&#34;&gt;Talks &amp;amp; Presentations&lt;/h2&gt;
+&lt;p&gt;Here you will find a collection of my talks, presentations, and lectures on topics related to Executable Semantic Order, multi-agent systems, and digital identity.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;More content coming soon.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
