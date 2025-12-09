@@ -6,6 +6,21 @@
   </url><url>
     <loc>http://localhost:1313/position/semantic-isa/</loc>
   </url><url>
+    <loc>http://localhost:1313/work/history/</loc>
+    <lastmod>2015-02-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/work/history/iclang/</loc>
+    <lastmod>2015-02-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2015-02-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/work/</loc>
+    <lastmod>2015-02-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/work/history/boliau/</loc>
+    <lastmod>2013-01-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/position/</loc>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
@@ -36,8 +51,6 @@
   </url><url>
     <loc>http://localhost:1313/research/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-  </url><url>
     <loc>http://localhost:1313/search/</loc>
   </url><url>
     <loc>http://localhost:1313/research/structures/semantic-isa/</loc>
@@ -57,7 +70,5 @@
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
     <loc>http://localhost:1313/work/talks/</loc>
-  </url><url>
-    <loc>http://localhost:1313/work/</loc>
   </url>
 </urlset>

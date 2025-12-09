@@ -1,39 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Researching Executable Semantic Order on Tyson Chen — Executable Semantic Order</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Researching Executable Semantic Order on Tyson Chen — Executable Semantic Order</description>
+    <title>Historical Work on Tyson Chen — Executable Semantic Order</title>
+    <link>http://localhost:1313/work/history/</link>
+    <description>Recent content in Historical Work on Tyson Chen — Executable Semantic Order</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Executable Semantic Order</title>
-      <link>http://localhost:1313/position/executable-semantic-order/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/position/executable-semantic-order/</guid>
-      <description>&lt;h2 id=&#34;definition&#34;&gt;Definition&lt;/h2&gt;
-&lt;p&gt;Executable Semantic Order describes the structural conditions under which semantic constructs can be transformed into constrained, verifiable, and auditable execution.&lt;/p&gt;
-&lt;p&gt;This work does not treat semantics as representation, interpretation, or meaning-as-text.&lt;br&gt;
-It concerns the minimum ordering required for semantic commitments to participate in execution without collapsing into ad hoc human judgment.&lt;/p&gt;
-&lt;p&gt;In this sense, executable semantic order operates at a pre-system, pre-application layer: it defines when a semantic description may legitimately be treated as an executable premise.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Semantic ISA</title>
-      <link>http://localhost:1313/position/semantic-isa/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/position/semantic-isa/</guid>
-      <description>&lt;h2 id=&#34;definition&#34;&gt;Definition&lt;/h2&gt;
-&lt;p&gt;Semantic ISA (Instruction Set Architecture) defines an intermediate execution layer where semantic constructs are transformed into constrained, inspectable instructions.&lt;/p&gt;
-&lt;p&gt;It is not a language for expression, nor a prompt format.&lt;br&gt;
-It specifies the minimal instruction surface required for semantic commitments to participate in execution under deterministic and auditable conditions.&lt;/p&gt;
-&lt;p&gt;In this sense, Semantic ISA functions as a semantic–execution boundary, not as an application interface.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;role-in-the-execution-stack&#34;&gt;Role in the execution stack&lt;/h2&gt;
-&lt;p&gt;Natural language is flexible but ambiguous.&lt;br&gt;
-Direct execution from language collapses semantic intent and operational behavior into an opaque step that cannot be reliably inspected, replayed, or constrained.&lt;/p&gt;</description>
-    </item>
+    <atom:link href="http://localhost:1313/work/history/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Censer</title>
       <link>http://localhost:1313/work/history/censer/</link>
@@ -139,104 +113,6 @@ Direct execution from language collapses semantic intent and operational behavio
       <guid>http://localhost:1313/work/history/lazyscript/</guid>
       <description>&lt;p&gt;LazyScripts was an early collection of automation scripts developed to externalize repetitive and error-prone system installation and configuration tasks, particularly in Ubuntu environments.&lt;/p&gt;
 &lt;p&gt;Motivated by the practical difficulty of repeatedly reinstalling and configuring systems, the project focused on capturing hard-won execution knowledge in reusable scripts. The goal was not convenience, but durability: ensuring that once a correct setup had been achieved, it could be replayed, transferred, and reapplied without requiring the same human attention and error.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Agent Execution Model</title>
-      <link>http://localhost:1313/research/applications/agent-execution/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/applications/agent-execution/</guid>
-      <description>An execution form examined as a projection of executable semantic order in autonomous agents.</description>
-    </item>
-    <item>
-      <title>AgentIDL</title>
-      <link>http://localhost:1313/research/structures/agentidl/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/structures/agentidl/</guid>
-      <description>A semantic interface layer for composing agent capabilities under executable constraints.</description>
-    </item>
-    <item>
-      <title>AI Workforce Systems</title>
-      <link>http://localhost:1313/research/applications/ai-workforce/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/applications/ai-workforce/</guid>
-      <description>An organizational form examined as a projection of executable semantic order in enterprise contexts.</description>
-    </item>
-    <item>
-      <title>Identity and Memory Architecture</title>
-      <link>http://localhost:1313/research/structures/identity/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/structures/identity/</guid>
-      <description>Subject structures supporting executable semantic order.</description>
-    </item>
-    <item>
-      <title>Media</title>
-      <link>http://localhost:1313/work/media/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/work/media/</guid>
-      <description>Public conversations and recorded discussions related to executable semantic order.</description>
-    </item>
-    <item>
-      <title>Multi-Agent Governance</title>
-      <link>http://localhost:1313/research/applications/governance/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/applications/governance/</guid>
-      <description>A governance form examined as a projection of executable semantic order in multi-agent environments.</description>
-    </item>
-    <item>
-      <title>Notes and Working Materials</title>
-      <link>http://localhost:1313/work/notes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/work/notes/</guid>
-      <description>Research collections related to executable semantic order.</description>
-    </item>
-    <item>
-      <title>Projects</title>
-      <link>http://localhost:1313/work/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/work/projects/</guid>
-      <description>Bounded project contexts where executable semantic order is exercised in practice.</description>
-    </item>
-    <item>
-      <title>Semantic ISA</title>
-      <link>http://localhost:1313/research/structures/semantic-isa/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/structures/semantic-isa/</guid>
-      <description>An intermediate semantic instruction architecture for executable semantic order.</description>
-    </item>
-    <item>
-      <title>Semantic Ledger</title>
-      <link>http://localhost:1313/research/structures/ledger/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/structures/ledger/</guid>
-      <description>Trace structures supporting accountability within executable semantic order.</description>
-    </item>
-    <item>
-      <title>Semantic OS</title>
-      <link>http://localhost:1313/research/applications/semantic-os/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/applications/semantic-os/</guid>
-      <description>An operating-environment form examined as a projection of executable semantic order.</description>
-    </item>
-    <item>
-      <title>SlashLife AI</title>
-      <link>http://localhost:1313/work/slashlife-ai/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/work/slashlife-ai/</guid>
-      <description>A venture context in which executable semantic order is applied under enterprise constraints.</description>
-    </item>
-    <item>
-      <title>Standards and Governance</title>
-      <link>http://localhost:1313/work/standards/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/work/standards/</guid>
-      <description>Institutional and standardization contexts related to executable semantic order.</description>
-    </item>
-    <item>
-      <title>Talks</title>
-      <link>http://localhost:1313/work/talks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/work/talks/</guid>
-      <description>Invited talks and presentations related to executable semantic order.</description>
     </item>
   </channel>
 </rss>
