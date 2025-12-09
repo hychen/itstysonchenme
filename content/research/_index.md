@@ -84,4 +84,27 @@ may be subject to additional interpretive or derivative constraints.
 Where applicable, such conditions are described
 under the LOL License.
 
+---
+
+## Research Field Use Notice
+
+
+This research defines a field of inquiry in which semantic order
+is examined as an executable structural condition.
+
+Readers are free to study, reference, critique, or develop independent work
+inspired by these materials.
+
+However, any work that claims to be *based on*, *derived from*,
+or *aligned with* this research position is expected to preserve
+the underlying semantic assumptions and problem boundaries
+defined in this site.
+
+Reinterpretation, rebranding, or systematization that materially alters
+these assumptions should not be presented as an extension of this research.
+
+Certain materials may also be subject to additional usage constraints,
+including restrictions on automated or AI-mediated use,
+as described under the Language Ontology License (LOL v0.1).
+
 → See https://github.com/Language-Ontology-Institute/lol-license
