@@ -3,10 +3,12 @@ title: "Work"
 description: "Contexts in which executable semantic order is instantiated under real-world constraints."
 ---
 
-This section documents **contexts of application** in which research on executable semantic order is instantiated under organizational, institutional, or operational constraints.
+This section documents how **executable semantic order** is instantiated
+through systems, ventures, and institutional engagements.
 
-The items collected here are not separate research programs.
-They represent situations where the underlying structures are exercised, tested, or negotiated in practice.
+I build and operate environments in which semantic commitments are required to become executable, inspectable, and durable under real organizational and regulatory constraints.
+
+The items collected here are not independent research programs. They are concrete instantiations where the underlying structures are exercised, tested, and negotiated in practice.
 
 ---
 
@@ -14,7 +16,7 @@ They represent situations where the underlying structures are exercised, tested,
 
 ### SlashLife AI
 
-SlashLife AI serves as a venture context in which executable semantic order is applied to enterprise operations.
+SlashLife AI is a venture I founded to apply executable semantic order to enterprise operations.
 
 The focus is on environments where workflows, delegation structures, and compliance requirements must remain durable, inspectable, and accountable over time.
 
