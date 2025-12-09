@@ -73,3 +73,15 @@ Where concrete systems or practices are mentioned, they serve as reference point
 Applied work and instantiations derived from this research are documented separately.
 
 The purpose of this section is to articulate necessary conditions and recurring forms that emerge when semantic order participates directly in execution.
+
+---
+
+## Use and Derivative Conditions
+
+Some materials referenced or linked from this research
+may be subject to additional interpretive or derivative constraints.
+
+Where applicable, such conditions are described
+under the LOL License.
+
+→ See https://github.com/Language-Ontology-Institute/lol-license
