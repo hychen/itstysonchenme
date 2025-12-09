@@ -8,6 +8,32 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Executable Semantic Order</title>
+      <link>http://localhost:1313/position/executable-semantic-order/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/position/executable-semantic-order/</guid>
+      <description>&lt;h2 id=&#34;definition&#34;&gt;Definition&lt;/h2&gt;
+&lt;p&gt;Executable Semantic Order describes the structural conditions under which semantic constructs can be transformed into constrained, verifiable, and auditable execution.&lt;/p&gt;
+&lt;p&gt;This work does not treat semantics as representation, interpretation, or meaning-as-text.&lt;br&gt;
+It concerns the minimum ordering required for semantic commitments to participate in execution without collapsing into ad hoc human judgment.&lt;/p&gt;
+&lt;p&gt;In this sense, executable semantic order operates at a pre-system, pre-application layer: it defines when a semantic description may legitimately be treated as an executable premise.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Semantic ISA</title>
+      <link>http://localhost:1313/position/semantic-isa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/position/semantic-isa/</guid>
+      <description>&lt;h2 id=&#34;definition&#34;&gt;Definition&lt;/h2&gt;
+&lt;p&gt;Semantic ISA (Instruction Set Architecture) defines an intermediate execution layer where semantic constructs are transformed into constrained, inspectable instructions.&lt;/p&gt;
+&lt;p&gt;It is not a language for expression, nor a prompt format.&lt;br&gt;
+It specifies the minimal instruction surface required for semantic commitments to participate in execution under deterministic and auditable conditions.&lt;/p&gt;
+&lt;p&gt;In this sense, Semantic ISA functions as a semantic–execution boundary, not as an application interface.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;role-in-the-execution-stack&#34;&gt;Role in the execution stack&lt;/h2&gt;
+&lt;p&gt;Natural language is flexible but ambiguous.&lt;br&gt;
+Direct execution from language collapses semantic intent and operational behavior into an opaque step that cannot be reliably inspected, replayed, or constrained.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Agent Execution Model</title>
       <link>http://localhost:1313/research/applications/agent-execution/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

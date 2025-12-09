@@ -10,6 +10,8 @@ showBreadcrumbs: true
 showToc: false
 ---
 
+> > This research section assumes the position defined in **Executable Semantic Order** and does not restate its definition. It focuses on analysis, structure, and projection within that position.
+
 This research centers on a single question:
 
 **Under what structural conditions can semantics become executable?**
