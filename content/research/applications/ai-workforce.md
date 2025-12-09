@@ -10,14 +10,14 @@ showBreadcrumbs: true
 showToc: false
 ---
 
-## Projection: AI Workforce Systems
-
 When executable semantic order is examined within enterprise and organizational settings, it becomes visible as what can be described as **AI workforce systems**.
 
 In this projection, AI is no longer treated as a collection of isolated tools.
 Instead, agents appear as structured participants within an operational environment shaped by roles, responsibilities, and coordination constraints.
 
 This form is examined analytically rather than proposed as a system blueprint.
+
+Within this projection, AI-Native Management corresponds to the organizational management layer, treating AI systems as organizational subjects.
 
 ---
 
@@ -88,7 +88,7 @@ This allows organizations to reason about operational behavior structurally rath
 
 ---
 
-## Relation to Other Projections
+## Structural Placement
 
 - Agent-level execution → see [Agent Execution Model]({{< ref "agent-execution.md" >}})
 - Structural foundations → see [Structural Primitives]({{< ref "research/structures/_index.md" >}})

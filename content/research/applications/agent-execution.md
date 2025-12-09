@@ -10,8 +10,6 @@ showBreadcrumbs: true
 showToc: false
 ---
 
-## Projection: Agent Execution Model
-
 When executable semantic order is examined at the level of autonomous agents, it becomes visible as a characteristic **agent execution model**.
 
 This projection addresses a core question:
@@ -88,7 +86,7 @@ Agent execution under executable semantic order is therefore examined as a condi
 
 ---
 
-## Position Within the Research Structure
+## Structural Placement
 
 - Foundational constraints → see [Executable Semantic Order]({{< ref "research/order/_index.md" >}})  
 - Structural requirements → see [Structural Primitives]({{< ref "research/structures/_index.md" >}})  

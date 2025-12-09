@@ -16,6 +16,10 @@ When examined under practical constraints, it becomes visible through a range of
 These projections are not treated as independent research programs.
 They are observed as manifestations of the same underlying order, shaped by differing operational, organizational, and environmental conditions.
 
+This section records applied observations of AI-native organizational systems.
+
+The management-layer articulation of this foundation is described in [AI-Native Management](./ai-native-management/).
+
 ---
 
 ## Projection Perspective

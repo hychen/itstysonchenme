@@ -10,12 +10,12 @@ showBreadcrumbs: true
 showToc: false
 ---
 
-## Projection: Semantic OS
-
 When executable semantic order is examined at the level of persistent execution environments, it becomes visible as what may be described as a **semantic operating environment**.
 
 This projection is not treated as an operating system product.
 Rather, it articulates how the assumptions underlying traditional operating systems are structurally altered when semantic integrity participates directly in execution.
+
+AI-Native Management operates as the management layer corresponding to semantic operating environments.
 
 ---
 
@@ -82,7 +82,7 @@ This constraint is treated as a prerequisite for open execution, not as an optio
 
 ---
 
-## Position Within the Research Structure
+## Structural Placement
 
 - Foundational constraints → see [Executable Semantic Order]({{< ref "research/order/_index.md" >}})  
 - Structural requirements → see [Structural Primitives]({{< ref "research/structures/_index.md" >}})  

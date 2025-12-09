@@ -10,12 +10,12 @@ showBreadcrumbs: true
 showToc: false
 ---
 
-## Projection: Multi-Agent Governance
-
 When executable semantic order is examined in environments involving multiple autonomous agents—often operating across organizational boundaries—it becomes visible as a characteristic **multi-agent governance form**.
 
 This projection does not assume a single governing authority, nor is it treated as a unified framework.
 Rather, it describes the structural conditions under which coordination, responsibility, and conflict resolution remain possible among independent agents.
+
+At the management layer, governance is treated as an execution-aligned process rather than a retrospective one.
 
 ---
 
@@ -93,7 +93,7 @@ Executable semantic order therefore reframes governance as an operational requir
 
 ---
 
-## Position Within the Research Structure
+## Structural Placement
 
 - Foundational constraints → see [Executable Semantic Order]({{< ref "research/order/_index.md" >}})  
 - Structural requirements → see [Structural Primitives]({{< ref "research/structures/_index.md" >}})  

@@ -10,13 +10,13 @@ showBreadcrumbs: true
 showToc: false
 ---
 
-> > This research section assumes the position defined in **Executable Semantic Order** and does not restate its definition. It focuses on analysis, structure, and projection within that position.
+> This research section assumes the position defined in **Executable Semantic Order** and does not restate its definition. It focuses on analysis, structure, and projection within that position.
 
 This research centers on a single question:
 
 **Under what structural conditions can semantics become executable?**
 
-Rather than treating meaning as an interpretive or descriptive layer, I investigate how semantic structures can act as *operational constraints*—shaping execution, coordination, and responsibility within computational systems.
+Rather than treating meaning as an interpretive or descriptive layer, this research examines how semantic structures can act as operational constraints—shaping execution, coordination, and responsibility within computational systems.
 
 The work proceeds by identifying stable structural primitives that allow semantic commitments to be executed, composed, and externally inspected.
 
@@ -25,7 +25,7 @@ The work proceeds by identifying stable structural primitives that allow semanti
 ## Research Axes
 
 ### Semantic Order
-The core research direction.
+The foundational research direction.
 
 This line of inquiry examines executable semantic order as a computational model:  
 how meaning, once formalized, can participate directly in system behavior rather than remaining an annotation or post-hoc interpretation.
@@ -44,7 +44,7 @@ These include instruction-level semantic representations, interface layers betwe
 ---
 
 ### System Projections
-Concrete systems that emerge when executable semantic order is instantiated under real constraints.
+System-level forms that emerge when executable semantic order is examined under real constraints.
 
 This includes operating environments, agent execution models, governance mechanisms, and enterprise-facing systems.
 
