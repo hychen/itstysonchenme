@@ -70,4 +70,14 @@ Public conversations and interviews are archived for reference.
 
 ---
 
+## Historical Context
+
+Earlier systems and exploratory work developed prior to the formulation of executable semantic order are documented separately.
+
+These materials provide historical context but do not constitute applied instances of the current framework.
+
+→ See [Historical Work]({{< ref "work/history/_index.md" >}})
+
+---
+
 This section records how research enters practice without redefining its conceptual foundation.
