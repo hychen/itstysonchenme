@@ -14,5 +14,3 @@ and how responsibility is assigned.
 This research defines **executable semantic order**
 as a computational model in which semantics participates directly
 in execution, verification, and coordination across agents and systems.
-
-thus, I build systems that turn semantic commitments into executable, auditable agent behavior, with institutional and commercial deployment in mind.
