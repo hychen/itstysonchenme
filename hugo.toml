@@ -4,6 +4,7 @@ title = 'Tyson Chen — Executable Semantic Order'
 theme = "PaperMod"
 
 [params]
+enableSearch = true
 description = "Research on executable semantic order and the structural conditions that make semantics operational."
 author = "Tyson Chen"
 defaultTheme = "auto"
@@ -71,6 +72,12 @@ identifier = "contact"
 name = "Contact"
 url = "/contact/"
 weight = 40
+
+[[menu.main]]
+identifier = "search"
+name = "Search"
+url = "/search/"
+weight = 50
 
 [markup]
   [markup.goldmark]
