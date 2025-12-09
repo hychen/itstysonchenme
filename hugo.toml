@@ -9,14 +9,14 @@ author = "Tyson Chen"
 defaultTheme = "auto"
 
 ShowShareButtons = false
-ShowReadingTime = true
+ShowReadingTime = false
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
 ShowCodeCopyButtons = true
 ShowAllPagesInArchive = true
 ShowPageNums = true
 ShowToc = true
-mainSections = ["posts"]
+mainSections = ["position", "research"]
 
 
 # Homepage content is fully driven by content/_index.md
@@ -52,7 +52,7 @@ weight = 1
 identifier = "about"
 name = "About"
 url = "/about/"
-weight = 10
+weight = 35
 
 [[menu.main]]
 identifier = "research"
