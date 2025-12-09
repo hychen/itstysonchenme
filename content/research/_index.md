@@ -76,16 +76,6 @@ The purpose of this section is to articulate necessary conditions and recurring 
 
 ---
 
-## Use and Derivative Conditions
-
-Some materials referenced or linked from this research
-may be subject to additional interpretive or derivative constraints.
-
-Where applicable, such conditions are described
-under the LOL License.
-
----
-
 ## Research Field Use Notice
 
 
