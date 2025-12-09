@@ -10,7 +10,7 @@ showBreadcrumbs: true
 showToc: false
 ---
 
-## Semantic ISA: Semantic Instruction Architecture
+> This page provides a research-level elaboration of **Semantic ISA** as defined at the position level. It examines its structural implications and candidate primitives within executable semantic order, without redefining its role or scope.
 
 Semantic Instruction Architecture (Semantic ISA) is examined as an **intermediate semantic execution layer** that mediates between expressed semantic intent and concrete computational behavior.
 

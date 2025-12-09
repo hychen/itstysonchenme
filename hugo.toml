@@ -43,6 +43,12 @@ url = "https://github.com/hychen"
 [menu]
 
 [[menu.main]]
+identifier = "position"
+name = "Position"
+url = "/position/"
+weight = 1
+
+[[menu.main]]
 identifier = "about"
 name = "About"
 url = "/about/"
