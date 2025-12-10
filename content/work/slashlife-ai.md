@@ -3,7 +3,7 @@ title: "SlashLife AI"
 description: "A venture context in which executable semantic order is applied under enterprise constraints."
 ---
 
-SlashLife AI is a venture I founded to apply **executable semantic order** under real-world enterprise constraints.
+[SlashLife AI](https://slashlife.ai) is a venture I founded to apply **executable semantic order** under real-world enterprise constraints.
 
 The work documented here reflects how the underlying structures are implemented, constrained, and negotiated in commercial and organizational settings. It is not presented as an independent research program or a comprehensive product specification, but as an applied environment in which feasibility is tested.
 

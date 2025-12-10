@@ -28,7 +28,7 @@ This focus leads naturally to work on semantic instruction architectures, agent 
 
 Alongside research, I engage in applied and institutional work where these structures are instantiated under real constraints.
 
-This includes founding and leading SlashLife AI, as well as participation in standards and governance activities related to AI systems, identity infrastructures, and accountable computation.
+This includes founding and leading [SlashLife AI](https://slashlife.ai), as well as participation in standards and governance activities related to AI systems, identity infrastructures, and accountable computation.
 
 These roles are treated as **projections of the research**, not as independent pursuits.
 
