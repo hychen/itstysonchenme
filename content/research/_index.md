@@ -98,3 +98,5 @@ including restrictions on automated or AI-mediated use,
 as described under the Language Ontology License (LOL v0.1).
 
 → See https://github.com/Language-Ontology-Institute/lol-license
+
+This notice defines field and attribution boundaries; it does not constitute a license or transfer of rights.
