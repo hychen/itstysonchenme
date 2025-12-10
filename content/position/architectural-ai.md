@@ -10,6 +10,8 @@ Architectural AI refers to intelligent systems whose core capabilities—adaptat
 
 In this paradigm, ML-based models, including large language models, are treated as inference modules, not as artificial intelligence itself.
 
+This paper addresses system-level intelligence, not task-level performance.
+
 ---
 
 ## Social Adoption and Agency
@@ -43,6 +45,20 @@ Historical precedents such as Niklas Luhmann’s Zettelkasten method demonstrate
 Contemporary machine learning models, regardless of scale, are optimized for local, linear inference within bounded spaces. They perform well in constrained reasoning tasks, but consistently degrade in high-dimensional, non-linear, and structurally complex domains without external architectural support.
 
 What is often described as emergent model intelligence is better understood as usage-mediated intelligence—reflections of how systems are used, not intelligence inherent to models themselves.
+
+---
+
+## Intelligence as Organized Interaction (Minsky Lineage)
+
+This architectural framing aligns closely with Marvin Minsky’s *Society of Mind*.
+
+In Minsky’s formulation, intelligence does not arise from a single powerful reasoning system, nor from scaling any individual mechanism. Instead, it emerges from the structured interaction of many limited, specialized agents—each possessing narrow capabilities and minimal intelligence in isolation.
+
+These agents are not intelligent entities by themselves. Intelligence is a property of their organization: how roles are assigned, how interactions are constrained, how conflicts are resolved, and how control is exercised across the system.
+
+Interpreted in this light, contemporary multi-model or multi-agent systems do not constitute intelligence by virtue of multiplicity alone. Intelligence only emerges when models are embedded within an architectural framework that maintains state, assigns decision authority, enforces boundaries, and enables meta-level control.
+
+What Minsky identified conceptually is realized here architecturally: intelligence lives in the coordination of mechanisms, not in the mechanisms themselves.
 
 ---
 
@@ -193,6 +209,8 @@ It redefines intelligence as a property of system architecture:
 - models are components, not agents
 - adaptation, awareness, and evolution are governed at runtime
 - intelligence is expressed through execution, control, and responsibility
+
+Architectural AI does not compete with models; it reclassifies where intelligence resides.
 
 ---
 
