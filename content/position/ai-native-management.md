@@ -182,6 +182,20 @@ treat execution, compliance, and strategy as a single system.
 
 ---
 
+## Relation to Semantic Execution
+
+AI-Native Management depends on the ability to treat execution as a governed,
+inspectable process rather than an opaque outcome.
+
+The admissibility of semantic execution is addressed by *Executable Semantic Order*.  
+The mechanism of realization is defined by *Semantic ISA*.
+
+This position defines **why** organizations must be redesigned.
+Those works define **under what conditions** and **by what mechanisms**
+such redesign can be operationalized.
+
+---
+
 ## Status
 
 This page states a position.

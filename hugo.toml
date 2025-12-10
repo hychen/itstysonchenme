@@ -50,10 +50,10 @@ url = "/position/"
 weight = 1
 
 [[menu.main]]
-identifier = "about"
-name = "About"
-url = "/about/"
-weight = 35
+identifier = "concept"
+name = "Concept"
+url = "/concept"
+weight = 2
 
 [[menu.main]]
 identifier = "research"
@@ -72,6 +72,12 @@ identifier = "contact"
 name = "Contact"
 url = "/contact/"
 weight = 40
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 35
 
 [[menu.main]]
 identifier = "search"

@@ -62,3 +62,18 @@ It asks not what systems should do,
 but **under what ordering they are allowed to do anything at all**.
 
 All related systems, implementations, and products are downstream of this position.
+
+--
+
+## Relation to Semantic ISA
+
+Executable Semantic Order defines the admissibility conditions under which
+semantic descriptions may enter execution.
+
+Semantic ISA defines the instruction-level mechanism by which this transition
+is realized once admissibility is established.
+
+The present work constrains *whether* execution may occur.  
+Semantic ISA constrains *how* it occurs.
+
+The two operate at distinct but complementary layers.
