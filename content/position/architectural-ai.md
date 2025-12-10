@@ -113,6 +113,20 @@ Describing oneself is not equivalent to knowing oneself.
 
 ---
 
+## Meta-Cognition as a Structural Requirement
+
+Meta-cognition—the capacity of a system to observe, evaluate, and regulate its own cognitive processes—is a foundational element of adaptive intelligence.
+
+In intelligent systems, meta-cognition enables an agent to assess not only *what* it is doing, but *how* and *why* it is doing so, including recognition of uncertainty, capability limits, and contextual appropriateness of actions.
+
+Large language models do not possess meta-cognition in this sense. They generate outputs without an internal, authoritative model of their own reasoning process, confidence, or operational boundaries. Apparent self-reflection in model outputs is linguistic simulation, not procedural self-regulation.
+
+Without meta-cognitive mechanisms—such as explicit self-monitoring, error detection, and process-level control—systems cannot reliably adapt, learn safely, or govern their own behavior over time.
+
+Meta-cognition therefore cannot emerge from inference models alone. It must be designed at the architectural level, where state, memory, constraints, and evaluation processes are explicitly represented and governed.
+
+---
+
 ## 4. Self-Evolution
 
 **Architectural AI**
