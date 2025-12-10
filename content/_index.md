@@ -5,6 +5,13 @@ description: "Structural conditions for making semantics executable, auditable, 
 
 Semantic execution has become unavoidable.
 
+As semantic intent crosses into execution,
+failures are no longer interpretive errors
+but operational breakpoints in composite task chains.
+Interrupted delegation, irrecoverable side effects,
+and untraceable responsibility become system risks,
+not model issues.
+
 Once semantics participates in execution,
 it can no longer be treated as a descriptive or interpretive layer,
 but as a structural constraint on system behavior—
