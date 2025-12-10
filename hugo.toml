@@ -50,9 +50,9 @@ url = "/position/"
 weight = 1
 
 [[menu.main]]
-identifier = "concept"
+identifier = "concepts"
 name = "Concept"
-url = "/concept"
+url = "/concepts/"
 weight = 2
 
 [[menu.main]]
