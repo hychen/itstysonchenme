@@ -14,6 +14,9 @@ summary: >
 
 ## Definition
 
+Once semantic intent is allowed to participate in execution, the absence of an explicit instruction boundary
+renders task behavior opaque, non-replayable, and structurally unaccountable.
+
 Semantic ISA (Instruction Set Architecture) defines an intermediate execution layer in which semantic constructs are transformed into constrained, inspectable instructions.
 
 It specifies the minimal instruction surface required for semantic commitments to participate in execution under deterministic and auditable conditions.
