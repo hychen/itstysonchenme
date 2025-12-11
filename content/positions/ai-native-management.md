@@ -1,7 +1,18 @@
 ---
-title: "AI-Native Management"
-description: "Management for organizations where AI is an executor, not a tool."
+title: AI-Native Management
+description: Management for organizations where AI is an executor, not a tool.
+type: position
+schema:
+  type: PositionPaper
+  version: '0.1'
+weight: 1
+claims: []
+assumptions: []
+citations: []
 ---
+
+
+
 
 AI is no longer an interface layer.
 It has entered the execution layer of organizations.

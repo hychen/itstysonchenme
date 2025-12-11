@@ -1,7 +1,16 @@
 ---
-title: "Architectural AI vs Model-centric AI"
+title: Architectural AI vs Model-centric AI
 weight: 3
+type: perspective
+schema:
+  type: AnalyticalNote
+  category: ''
+  version: '0.1'
+citations: []
 ---
+
+
+
 
 Artificial intelligence is increasingly conflated with machine learning models.  
 This framing represents a category error.

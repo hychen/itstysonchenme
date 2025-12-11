@@ -1,7 +1,14 @@
 ---
-title: "Censer"
+title: Censer
 date: 2020-01-01
+type: work
+schema:
+  type: WorkRecord
+  version: '0.1'
 ---
+
+
+
 
 Censer was an exploratory proposal for governing the deployment and execution of machine learning models under conditions of unclear legal liability.
 

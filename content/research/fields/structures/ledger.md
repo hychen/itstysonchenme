@@ -1,14 +1,24 @@
 ---
-title: "Semantic Ledger"
-description: "Trace structures supporting accountability within executable semantic order."
-layout: "page"
-
+title: Semantic Ledger
+description: Trace structures supporting accountability within executable semantic
+  order.
+layout: page
 showReadingTime: false
 showAuthor: false
 showDate: false
 showBreadcrumbs: true
 showToc: false
+type: research
+schema:
+  type: ResearchNote
+  domain: ''
+  field: ''
+  version: '0.1'
+citations: []
 ---
+
+
+
 
 ## Semantic Ledger: Trace Structures
 

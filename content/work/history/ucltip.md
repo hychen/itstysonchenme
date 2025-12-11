@@ -1,7 +1,14 @@
 ---
-title: "UCLTIP"
+title: UCLTIP
 date: 2010-07-29
+type: work
+schema:
+  type: WorkRecord
+  version: '0.1'
 ---
+
+
+
 
 UCLTIP was an early framework for treating command-line tools as structured, callable objects within Python.
 

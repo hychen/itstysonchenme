@@ -1,7 +1,15 @@
 ---
-title: "SlashLife AI"
-description: "A venture context in which executable semantic order is applied under enterprise constraints."
+title: SlashLife AI
+description: A venture context in which executable semantic order is applied under
+  enterprise constraints.
+type: work
+schema:
+  type: WorkRecord
+  version: '0.1'
 ---
+
+
+
 
 [SlashLife AI](https://slashlife.ai) is a venture I founded to apply **executable semantic order** under real-world enterprise constraints.
 

@@ -1,7 +1,14 @@
 ---
-title: "Trustable AI (Augit)"
+title: Trustable AI (Augit)
 date: 2017-07-01
+type: work
+schema:
+  type: WorkRecord
+  version: '0.1'
 ---
+
+
+
 
 TrustableAI was an My first startup effort focused on operationalizing responsibility and risk controls in machine learning deployment pipelines.
 

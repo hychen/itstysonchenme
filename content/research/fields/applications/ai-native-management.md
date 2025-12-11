@@ -3,7 +3,17 @@ title: AI-Native Management
 subtitle: A Working Paper
 version: 0.1
 status: Working Paper
+type: research
+schema:
+  type: ResearchNote
+  domain: ''
+  field: ''
+  version: '0.1'
+citations: []
 ---
+
+
+
 
 ## Abstract
 

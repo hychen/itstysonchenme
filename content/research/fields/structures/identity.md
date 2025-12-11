@@ -1,14 +1,23 @@
 ---
-title: "Identity and Memory Architecture"
-description: "Subject structures supporting executable semantic order."
-layout: "page"
-
+title: Identity and Memory Architecture
+description: Subject structures supporting executable semantic order.
+layout: page
 showReadingTime: false
 showAuthor: false
 showDate: false
 showBreadcrumbs: true
 showToc: false
+type: research
+schema:
+  type: ResearchNote
+  domain: ''
+  field: ''
+  version: '0.1'
+citations: []
 ---
+
+
+
 
 ## Identity and Memory Architecture: Subject Structures
 

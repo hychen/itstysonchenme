@@ -1,7 +1,14 @@
 ---
-title: "ke-e"
+title: ke-e
 date: 2016-09-03
+type: work
+schema:
+  type: WorkRecord
+  version: '0.1'
 ---
+
+
+
 
 ke-e was an experimental library exploring property-based and generative testing techniques, developed to systematically probe input spaces and structural assumptions in software systems.
 

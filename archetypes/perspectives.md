@@ -1,19 +1,14 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 summary: ""
-description: ""
+description: "Perspective on {{ replace .Name "-" " " }}."
 date: {{ .Date }}
 draft: true
-tags: []
-categories: []
-series: []
-weight: 10
+type: "perspective"
 
 schema:
-  type: "Article"
-  field: ""
-  domain: ""
-  keywords: []
+  type: "AnalyticalNote"
+  category: ""
   version: "0.1"
 
 citations: []

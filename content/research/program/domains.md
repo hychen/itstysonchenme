@@ -1,9 +1,16 @@
 ---
-title: "Research Domains"
-description: "The seven foundational domains of Semantic Systems Research."
-layout: "page"
+title: Research Domains
+description: The seven foundational domains of Semantic Systems Research.
+layout: page
 showToc: true
+type: research-program
+schema:
+  type: ProgramDescription
+  version: '0.1'
 ---
+
+
+
 
 # Research Domains
 

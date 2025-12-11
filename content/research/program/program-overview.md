@@ -1,9 +1,16 @@
 ---
-title: "Program Overview"
-description: "The theoretical and structural basis for Semantic Systems Research."
-layout: "page"
+title: Program Overview
+description: The theoretical and structural basis for Semantic Systems Research.
+layout: page
 showToc: true
+type: research-program
+schema:
+  type: ProgramDescription
+  version: '0.1'
 ---
+
+
+
 
 # Program Overview
 

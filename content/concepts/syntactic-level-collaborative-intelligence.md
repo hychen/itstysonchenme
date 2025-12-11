@@ -1,17 +1,27 @@
 ---
-title: "Syntactic-Level Collaborative Intelligence"
+title: Syntactic-Level Collaborative Intelligence
 status: stable
 use_for:
-  - ai-systems
-  - organization
-  - governance
-  - talent
-summary: >
-  Syntactic-Level Collaborative Intelligence describes the human capability
-  to collaborate with AI systems at the level of structure formation rather
-  than output consumption, enabling reliable co-execution, delegation, and
-  institutional embedding.
+- ai-systems
+- organization
+- governance
+- talent
+summary: 'Syntactic-Level Collaborative Intelligence describes the human capability
+  to collaborate with AI systems at the level of structure formation rather than output
+  consumption, enabling reliable co-execution, delegation, and institutional embedding.
+
+  '
+type: concept
+schema:
+  type: Concept
+  version: '0.1'
+weight: 1
+keywords: []
+citations: []
 ---
+
+
+
 
 ## Definition
 

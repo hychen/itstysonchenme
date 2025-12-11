@@ -1,14 +1,24 @@
 ---
-title: "AI Workforce Systems"
-description: "An organizational form examined as a projection of executable semantic order in enterprise contexts."
-layout: "page"
-
+title: AI Workforce Systems
+description: An organizational form examined as a projection of executable semantic
+  order in enterprise contexts.
+layout: page
 showReadingTime: false
 showAuthor: false
 showDate: false
 showBreadcrumbs: true
 showToc: false
+type: research
+schema:
+  type: ResearchNote
+  domain: ''
+  field: ''
+  version: '0.1'
+citations: []
 ---
+
+
+
 
 When executable semantic order is examined within enterprise and organizational settings, it becomes visible as what can be described as **AI workforce systems**.
 

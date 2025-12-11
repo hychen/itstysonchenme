@@ -1,8 +1,19 @@
 ---
-title: "Language Habitat & Rhythm Governance"
-summary: "A theoretical and operational framework for stabilizing semantic environments through rhythm, frequency, and contextual regulation."
+title: Language Habitat & Rhythm Governance
+summary: A theoretical and operational framework for stabilizing semantic environments
+  through rhythm, frequency, and contextual regulation.
 weight: 50
+type: research
+schema:
+  type: ResearchNote
+  domain: ''
+  field: ''
+  version: '0.1'
+citations: []
 ---
+
+
+
 
 Language Habitat & Rhythm Governance addresses the stability conditions of semantic environments in which high-density cognitive or syntactic operations occur.  
 Instead of treating language as linear expression, this domain conceptualizes linguistic environments as *habitats* whose properties influence interpretive reliability, cognitive load, and collaborative coherence.

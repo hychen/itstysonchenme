@@ -1,16 +1,27 @@
 ---
-title: "Semantic ISA"
+title: Semantic ISA
 status: stable
 use_for:
-  - ai-systems
-  - runtime
-  - standards
-summary: >
-  Semantic ISA (Instruction Set Architecture) defines an intermediate execution
-  layer where semantic intent is transformed into constrained, inspectable,
-  and replayable instructions, establishing a deterministic boundary between
-  language and execution in AI-native systems.
+- ai-systems
+- runtime
+- standards
+summary: 'Semantic ISA (Instruction Set Architecture) defines an intermediate execution
+  layer where semantic intent is transformed into constrained, inspectable, and replayable
+  instructions, establishing a deterministic boundary between language and execution
+  in AI-native systems.
+
+  '
+type: concept
+schema:
+  type: Concept
+  version: '0.1'
+weight: 1
+keywords: []
+citations: []
 ---
+
+
+
 
 ## Definition
 

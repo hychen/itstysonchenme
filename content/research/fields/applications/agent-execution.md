@@ -1,14 +1,24 @@
 ---
-title: "Agent Execution Model"
-description: "An execution form examined as a projection of executable semantic order in autonomous agents."
-layout: "page"
-
+title: Agent Execution Model
+description: An execution form examined as a projection of executable semantic order
+  in autonomous agents.
+layout: page
 showReadingTime: false
 showAuthor: false
 showDate: false
 showBreadcrumbs: true
 showToc: false
+type: research
+schema:
+  type: ResearchNote
+  domain: ''
+  field: ''
+  version: '0.1'
+citations: []
 ---
+
+
+
 
 When executable semantic order is examined at the level of autonomous agents, it becomes visible as a characteristic **agent execution model**.
 

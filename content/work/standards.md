@@ -1,7 +1,15 @@
 ---
-title: "Standards and Governance"
-description: "Institutional and standardization contexts related to executable semantic order."
+title: Standards and Governance
+description: Institutional and standardization contexts related to executable semantic
+  order.
+type: work
+schema:
+  type: WorkRecord
+  version: '0.1'
 ---
+
+
+
 
 This page documents **institutional and standardization contexts** in which research on executable semantic order is discussed, referenced, or evaluated.
 

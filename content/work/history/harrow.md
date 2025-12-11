@@ -1,7 +1,14 @@
 ---
-title: "Harrow"
+title: Harrow
 date: 2013-05-04
+type: work
+schema:
+  type: WorkRecord
+  version: '0.1'
 ---
+
+
+
 
 Harrow was an experimental implementation of Arrows as executable pipelines in Python, inspired by the Arrow abstraction in functional programming.
 

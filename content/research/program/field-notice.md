@@ -1,9 +1,16 @@
 ---
-title: "Field Notice"
-description: "Attribution boundaries and field definition for Semantic Systems Research."
-layout: "page"
+title: Field Notice
+description: Attribution boundaries and field definition for Semantic Systems Research.
+layout: page
 showToc: false
+type: research-program
+schema:
+  type: ProgramDescription
+  version: '0.1'
 ---
+
+
+
 
 # Research Field Notice
 

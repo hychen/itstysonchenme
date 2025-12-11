@@ -1,8 +1,19 @@
 ---
-title: "Syntactic Entrepreneurship"
-summary: "An examination of entrepreneurship as a function of linguistic structure, semantic precision, and AI-mediated system design."
+title: Syntactic Entrepreneurship
+summary: An examination of entrepreneurship as a function of linguistic structure,
+  semantic precision, and AI-mediated system design.
 weight: 20
+type: research
+schema:
+  type: ResearchNote
+  domain: ''
+  field: ''
+  version: '0.1'
+citations: []
 ---
+
+
+
 
 Syntactic Entrepreneurship conceptualizes entrepreneurial activity as a process structured by language and governed by syntactic and semantic constraints.  
 As AI systems increasingly mediate coordination, production, and organizational behavior, the linguistic forms used to specify action, define systems, and impose structure gain decisive operational significance.

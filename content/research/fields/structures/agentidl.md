@@ -1,14 +1,24 @@
 ---
-title: "AgentIDL"
-description: "A semantic interface layer for composing agent capabilities under executable constraints."
-layout: "page"
-
+title: AgentIDL
+description: A semantic interface layer for composing agent capabilities under executable
+  constraints.
+layout: page
 showReadingTime: false
 showAuthor: false
 showDate: false
 showBreadcrumbs: true
 showToc: false
+type: research
+schema:
+  type: ResearchNote
+  domain: ''
+  field: ''
+  version: '0.1'
+citations: []
 ---
+
+
+
 
 ## AgentIDL: Semantic Interface Layer
 

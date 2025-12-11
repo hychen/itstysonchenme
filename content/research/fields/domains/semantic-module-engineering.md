@@ -1,8 +1,19 @@
 ---
-title: "Semantic Module Engineering"
-summary: "An engineering discipline concerned with the design, composition, and governance of modular semantic components."
+title: Semantic Module Engineering
+summary: An engineering discipline concerned with the design, composition, and governance
+  of modular semantic components.
 weight: 30
+type: research
+schema:
+  type: ResearchNote
+  domain: ''
+  field: ''
+  version: '0.1'
+citations: []
 ---
+
+
+
 
 Semantic Module Engineering treats linguistic units as engineered components that can be composed, constrained, and governed within larger semantic systems.  
 

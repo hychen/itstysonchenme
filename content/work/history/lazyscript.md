@@ -1,7 +1,14 @@
 ---
-title: "LazyScripts"
+title: LazyScripts
 date: 2010-01-01
+type: work
+schema:
+  type: WorkRecord
+  version: '0.1'
 ---
+
+
+
 
 LazyScripts was an early collection of automation scripts developed to externalize repetitive and error-prone system installation and configuration tasks, particularly in Ubuntu environments.
 

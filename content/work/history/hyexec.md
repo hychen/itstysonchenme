@@ -1,7 +1,14 @@
 ---
-title: "HyExec"
+title: HyExec
 date: 2014-05-18
+type: work
+schema:
+  type: WorkRecord
+  version: '0.1'
 ---
+
+
+
 
 HyExec was an experimental system for wrapping Unix shell commands as fluent, composable objects in JavaScript.
 

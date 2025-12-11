@@ -1,7 +1,14 @@
 ---
-title: "SenseTW"
+title: SenseTW
 date: 2017-11-01
+type: work
+schema:
+  type: WorkRecord
+  version: '0.1'
 ---
+
+
+
 
 SenseTW was an open-source civic-tech project under the g0v community, aiming to build a long-term public-issue tracking and civic-participation platform.
 

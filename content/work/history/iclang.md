@@ -1,7 +1,14 @@
 ---
-title: "ICLang"
+title: ICLang
 date: 2015-02-24
+type: work
+schema:
+  type: WorkRecord
+  version: '0.1'
 ---
+
+
+
 
 ICLang was an early experimental system investigating coordination languages and process composition in distributed environments.
 

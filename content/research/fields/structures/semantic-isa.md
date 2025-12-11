@@ -1,14 +1,24 @@
 ---
-title: "Semantic ISA"
-description: "An intermediate semantic instruction architecture for executable semantic order."
-layout: "page"
-
+title: Semantic ISA
+description: An intermediate semantic instruction architecture for executable semantic
+  order.
+layout: page
 showReadingTime: false
 showAuthor: false
 showDate: false
 showBreadcrumbs: true
 showToc: false
+type: research
+schema:
+  type: ResearchNote
+  domain: ''
+  field: ''
+  version: '0.1'
+citations: []
 ---
+
+
+
 
 > This page provides a research-level elaboration of **Semantic ISA** as defined at the position level. It examines its structural implications and candidate primitives within executable semantic order, without redefining its role or scope.
 

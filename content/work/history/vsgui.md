@@ -1,7 +1,14 @@
 ---
-title: "VSGUI"
+title: VSGUI
 date: 2010-08-01
+type: work
+schema:
+  type: WorkRecord
+  version: '0.1'
 ---
+
+
+
 
 VSGUI was an early library for mediating human interaction with system execution through constrained graphical dialogs.
 

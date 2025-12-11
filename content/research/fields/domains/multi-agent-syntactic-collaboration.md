@@ -1,8 +1,19 @@
 ---
-title: "Multi-Agent Syntactic Collaboration"
-summary: "A study of collaborative mechanisms across heterogeneous agents grounded in shared syntactic authority and semantic governance."
+title: Multi-Agent Syntactic Collaboration
+summary: A study of collaborative mechanisms across heterogeneous agents grounded
+  in shared syntactic authority and semantic governance.
 weight: 40
+type: research
+schema:
+  type: ResearchNote
+  domain: ''
+  field: ''
+  version: '0.1'
+citations: []
 ---
+
+
+
 
 Multi-Agent Syntactic Collaboration examines coordination among heterogeneous agents—human or artificial—through shared syntactic structures and semantically governed protocols.  
 The domain posits that stable collaboration requires syntactic alignment rather than shared intention or behavioral similarity.

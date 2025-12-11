@@ -1,8 +1,19 @@
 ---
-title: "Semantic Institutional Design"
-summary: "A framework for analyzing and constructing institutions through formal semantic structures and executable linguistic constraints."
+title: Semantic Institutional Design
+summary: A framework for analyzing and constructing institutions through formal semantic
+  structures and executable linguistic constraints.
 weight: 10
+type: research
+schema:
+  type: ResearchNote
+  domain: ''
+  field: ''
+  version: '0.1'
+citations: []
 ---
+
+
+
 
 Semantic Institutional Design investigates the conditions under which institutions can be constituted, expressed, and executed through structured meaning rather than interpretive practice.  
 

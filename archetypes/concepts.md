@@ -1,20 +1,16 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 summary: ""
-description: ""
+description: "Concept note for {{ replace .Name "-" " " }}."
 date: {{ .Date }}
 draft: true
-tags: []
-categories: []
-series: []
-weight: 10
+type: "concept"
+weight: 1
 
 schema:
-  type: "Article"
-  field: ""
-  domain: ""
-  keywords: []
+  type: "Concept"
   version: "0.1"
 
+keywords: []
 citations: []
 ---

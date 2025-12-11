@@ -4,17 +4,9 @@ summary: ""
 description: ""
 date: {{ .Date }}
 draft: true
-tags: []
-categories: []
-series: []
-weight: 10
+type: "work"
 
 schema:
-  type: "Article"
-  field: ""
-  domain: ""
-  keywords: []
+  type: "WorkRecord"
   version: "0.1"
-
-citations: []
 ---

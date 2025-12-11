@@ -1,7 +1,17 @@
 ---
-title: "Executable Semantic Order"
+title: Executable Semantic Order
 weight: 1
+type: position
+schema:
+  type: PositionPaper
+  version: '0.1'
+claims: []
+assumptions: []
+citations: []
 ---
+
+
+
 
 ## Definition
 

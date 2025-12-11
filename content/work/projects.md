@@ -1,7 +1,15 @@
 ---
-title: "Projects"
-description: "Bounded project contexts where executable semantic order is exercised in practice."
+title: Projects
+description: Bounded project contexts where executable semantic order is exercised
+  in practice.
+type: work
+schema:
+  type: WorkRecord
+  version: '0.1'
 ---
+
+
+
 
 This section indexes **bounded project contexts** in which aspects of executable semantic order are explored, prototyped, or tested under specific constraints.
 

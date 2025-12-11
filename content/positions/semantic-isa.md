@@ -1,7 +1,17 @@
 ---
-title: "Semantic ISA"
+title: Semantic ISA
 weight: 2
+type: position
+schema:
+  type: PositionPaper
+  version: '0.1'
+claims: []
+assumptions: []
+citations: []
 ---
+
+
+
 
 Semantic ISA defines the semantic–execution boundary required for
 deterministic, inspectable, and accountable AI-native execution.

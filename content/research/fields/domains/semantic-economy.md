@@ -1,9 +1,20 @@
 ---
-title: "Semantic Economy"
-description: "Economic structures that arise when semantic commitments become accountable units of action, liability, and value."
-layout: "page"
+title: Semantic Economy
+description: Economic structures that arise when semantic commitments become accountable
+  units of action, liability, and value.
+layout: page
 showToc: true
+type: research
+schema:
+  type: ResearchNote
+  domain: ''
+  field: ''
+  version: '0.1'
+citations: []
 ---
+
+
+
 
 # Semantic Economy
 

@@ -1,7 +1,14 @@
 ---
-title: "BoLiau"
+title: BoLiau
 date: 2013-01-05
+type: work
+schema:
+  type: WorkRecord
+  version: '0.1'
 ---
+
+
+
 
 BoLiau was an early experimental framework for task and mission orchestration, developed to manage chained operations and deferred execution in script-based environments.
 

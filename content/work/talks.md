@@ -1,7 +1,14 @@
 ---
-title: "Talks"
-description: "Invited talks and presentations related to executable semantic order."
+title: Talks
+description: Invited talks and presentations related to executable semantic order.
+type: work
+schema:
+  type: WorkRecord
+  version: '0.1'
 ---
+
+
+
 
 This section indexes **invited talks, presentations, and lectures** related to executable semantic order and its associated system implications.
 

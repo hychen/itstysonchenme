@@ -1,20 +1,16 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 summary: ""
-description: ""
+description: "Critical analysis of {{ replace .Name "-" " " }}."
 date: {{ .Date }}
 draft: true
-tags: []
-categories: []
-series: []
-weight: 10
+type: "critique"
 
 schema:
-  type: "Article"
-  field: ""
-  domain: ""
-  keywords: []
+  type: "CriticalEssay"
   version: "0.1"
 
+claims: []
+counterpoints: []
 citations: []
 ---

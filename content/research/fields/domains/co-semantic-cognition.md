@@ -1,8 +1,19 @@
 ---
-title: "Co-Semantic Cognition"
-summary: "A theoretical account of how semantic structures are co-constructed, maintained, and governed across multiple cognitive systems."
+title: Co-Semantic Cognition
+summary: A theoretical account of how semantic structures are co-constructed, maintained,
+  and governed across multiple cognitive systems.
 weight: 60
+type: research
+schema:
+  type: ResearchNote
+  domain: ''
+  field: ''
+  version: '0.1'
+citations: []
 ---
+
+
+
 
 Co-Semantic Cognition studies the formation, stabilization, and transformation of meaning across interactions between human and artificial cognitive systems.  
 It examines how semantic structures become shared, how they evolve, and how authority over meaning is allocated or contested.

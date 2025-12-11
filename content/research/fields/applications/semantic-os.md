@@ -1,14 +1,24 @@
 ---
-title: "Semantic OS"
-description: "An operating-environment form examined as a projection of executable semantic order."
-layout: "page"
-
+title: Semantic OS
+description: An operating-environment form examined as a projection of executable
+  semantic order.
+layout: page
 showReadingTime: false
 showAuthor: false
 showDate: false
 showBreadcrumbs: true
 showToc: false
+type: research
+schema:
+  type: ResearchNote
+  domain: ''
+  field: ''
+  version: '0.1'
+citations: []
 ---
+
+
+
 
 When executable semantic order is examined at the level of persistent execution environments, it becomes visible as what may be described as a **semantic operating environment**.
 

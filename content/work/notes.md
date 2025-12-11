@@ -1,7 +1,14 @@
 ---
-title: "Notes and Working Materials"
-description: "Research collections related to executable semantic order."
+title: Notes and Working Materials
+description: Research collections related to executable semantic order.
+type: work
+schema:
+  type: WorkRecord
+  version: '0.1'
 ---
+
+
+
 
 This page indexes ongoing **research notes and working materials** related to executable semantic order.
 

@@ -1,7 +1,14 @@
 ---
-title: "Kuansim"
+title: Kuansim
 date: 2013-07-30
+type: work
+schema:
+  type: WorkRecord
+  version: '0.1'
 ---
+
+
+
 
 Kuansim was a civic technology project initiated within the g0v community to address the persistence of public attention on social and political issues.
 

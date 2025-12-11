@@ -1,14 +1,24 @@
 ---
-title: "Multi-Agent Governance"
-description: "A governance form examined as a projection of executable semantic order in multi-agent environments."
-layout: "page"
-
+title: Multi-Agent Governance
+description: A governance form examined as a projection of executable semantic order
+  in multi-agent environments.
+layout: page
 showReadingTime: false
 showAuthor: false
 showDate: false
 showBreadcrumbs: true
 showToc: false
+type: research
+schema:
+  type: ResearchNote
+  domain: ''
+  field: ''
+  version: '0.1'
+citations: []
 ---
+
+
+
 
 When executable semantic order is examined in environments involving multiple autonomous agents—often operating across organizational boundaries—it becomes visible as a characteristic **multi-agent governance form**.
 

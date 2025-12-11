@@ -1,15 +1,26 @@
 ---
-title: "Tone Engineering"
+title: Tone Engineering
 status: stable
 use_for:
-  - ai-systems
-  - governance
-  - standards
-summary: >
-  Tone Engineering is an engineering discipline that treats tone as a controllable
-  semantic parameter in human–AI systems, governing interpretation density,
-  responsibility signaling, and cognitive load.
+- ai-systems
+- governance
+- standards
+summary: 'Tone Engineering is an engineering discipline that treats tone as a controllable
+  semantic parameter in human–AI systems, governing interpretation density, responsibility
+  signaling, and cognitive load.
+
+  '
+type: concept
+schema:
+  type: Concept
+  version: '0.1'
+weight: 1
+keywords: []
+citations: []
 ---
+
+
+
 
 ## Definition
 

@@ -1,19 +1,15 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 summary: ""
-description: ""
+description: "Research note on {{ replace .Name "-" " " }}."
 date: {{ .Date }}
 draft: true
-tags: []
-categories: []
-series: []
-weight: 10
+type: "research"
 
 schema:
-  type: "Article"
-  field: ""
+  type: "ResearchNote"
   domain: ""
-  keywords: []
+  field: ""
   version: "0.1"
 
 citations: []

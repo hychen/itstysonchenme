@@ -1,7 +1,15 @@
 ---
-title: "Media"
-description: "Public conversations and recorded discussions related to executable semantic order."
+title: Media
+description: Public conversations and recorded discussions related to executable semantic
+  order.
+type: work
+schema:
+  type: WorkRecord
+  version: '0.1'
 ---
+
+
+
 
 This section collects **public conversations, interviews, and recorded discussions** related to the themes of executable semantic order and its systemic implications.
 
