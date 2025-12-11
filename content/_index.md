@@ -3,6 +3,8 @@ title: "Executable Semantic Order"
 description: "Structural conditions for making semantics executable, auditable, and composable across agents and systems."
 ---
 
+# Executable Semantic Order
+
 Semantic execution has become unavoidable.
 
 As semantic intent crosses into execution,
@@ -27,7 +29,43 @@ verification, and coordination across agents and systems.
 
 ---
 
-### Why — AI-Native Management
+## Core Sections
+
+A map of the structural foundations developed across this site:
+
+### **Position**
+Fundamental stance that define the operational shift
+from model-centric AI to semantic execution.
+
+→ [`/position/`](/position/)
+
+### **Concepts**
+Technical constructs such as Semantic ISA, Agent IDL, and execution admissibility.
+
+→ [`/concepts/`](/concepts/)
+
+### **Perspectives**
+Architectural analyses, critiques of current approaches,
+and forward-looking structural views.
+
+→ [`/perspectives/`](/perspectives/)
+
+### **Economics**
+Economic conditions shaped by semantic execution:
+productivity, procurement, cross-border operations,
+and machine-to-machine exchange.
+
+→ [`/economics/`](/economics/)
+
+### **Research**
+Drafts, formalizations, and theoretical lineages
+that ground the technical and institutional proposals.
+
+→ [`/research/`](/research/)
+
+---
+
+## Why — AI-Native Management
 
 Management theory assumed that only humans execute work.
 
@@ -38,11 +76,11 @@ and leave persistent execution traces,
 management must shift from supervising people
 to governing executable semantic chains.
 
-→ [Position: AI-Native Management](position/ai-native-management)
+→ [Position: AI-Native Management](/positions/ai-native-management/)
 
 ---
 
-### When — Executable Semantic Order
+## When — Executable Semantic Order
 
 Not every semantic statement should be allowed to execute.
 
@@ -52,11 +90,11 @@ under which semantic commitments become executable premises.
 
 This layer defines admissibility.
 
-→ [Position: Executable Semantic Order](position/executable-semantic-order)
+→ [Position: Executable Semantic Order](/positions/executable-semantic-order/)
 
 ---
 
-### How — Semantic ISA
+## How — Semantic ISA
 
 Once execution is admissible,
 semantic intent must be transformed
@@ -65,7 +103,7 @@ into constrained, inspectable, and replayable instructions.
 Semantic ISA defines the instruction boundary
 between language and execution.
 
-→ [Concept: Semantic ISA](concepts/semantic-isa)
+→ [Concept: Semantic ISA](/concepts/semantic-isa/)
 
 ---
 
