@@ -53,13 +53,19 @@ weight = 1
 identifier = "position"
 name = "Position"
 url = "/position/"
-weight = 1
+weight = 5
 
 [[menu.main]]
 identifier = "perspectives"
 name = "Perspectives"
 url = "/perspectives/"
 weight = 10
+
+[[menu.main]]
+identifier = "economics"
+name = "Economics"
+url = "/economics/"
+weight = 15
 
 [[menu.main]]
 identifier = "research"
