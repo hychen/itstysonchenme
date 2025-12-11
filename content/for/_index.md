@@ -1,17 +1,15 @@
 ---
-title: "For"
+title: "For Visitors"
 summary: "Semantic execution projected onto different institutional, technical, and operational contexts."
 description: "This section provides structured mappings of semantic execution to specific audiences—policymakers, regulators, developers, enterprises, startups, and cross-border SMBs. Each mapping outlines the conditions, constraints, and structural shifts relevant to that domain."
 weight: 1
 ---
 
-# Semantic Execution — Mapped to Contexts
-
 Semantic execution is a structural concept.  
+
 Its implications differ across governance, regulation, engineering, and operational practice.
 
-This section presents **context-specific mappings**—not as adaptations of the core theory,  
-but as structured projections of the same principles into distinct institutional and technical environments.
+This section presents **context-specific mappings**—not as adaptations of the core theory, but as structured projections of the same principles into distinct institutional and technical environments.
 
 Each document outlines:
 

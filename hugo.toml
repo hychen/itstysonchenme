@@ -19,7 +19,6 @@ ShowPageNums = true
 ShowToc = true
 mainSections = ["position", "research"]
 
-
 # Homepage content is fully driven by content/_index.md
 # homeInfoParams intentionally omitted
 [params.homeInfoParams]
@@ -43,53 +42,53 @@ url = "https://github.com/hychen"
 
 [menu]
 
-  [[menu.main]]
-    name = "Positions"
-    url = "/positions/"
-    weight = 10
+[[menu.main]]
+name = "Positions"
+url = "/positions/"
+weight = 10
 
-  [[menu.main]]
-    name = "Concepts"
-    url = "/concepts/"
-    weight = 20
+[[menu.main]]
+name = "Concepts"
+url = "/concepts/"
+weight = 20
 
-  [[menu.main]]
-    name = "Perspectives"
-    url = "/perspectives/"
-    weight = 30
+[[menu.main]]
+name = "Perspectives"
+url = "/perspectives/"
+weight = 30
 
-  [[menu.main]]
-    name = "Economics"
-    url = "/economics/"
-    weight = 40
+[[menu.main]]
+name = "Economics"
+url = "/economics/"
+weight = 40
 
-  [[menu.main]]
-    name = "For"
-    url = "/for/"
-    weight = 45
+[[menu.main]]
+name = "For Visitors"
+url = "/for/"
+weight = 1
 
-  [[menu.main]]
-    name = "Research"
-    url = "/research/"
-    weight = 50
+[[menu.main]]
+name = "Research"
+url = "/research/"
+weight = 50
 
-  [[menu.main]]
-    name = "Work"
-    url = "/work/"
-    weight = 60
+[[menu.main]]
+name = "Work"
+url = "/work/"
+weight = 60
 
-  [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 70
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 70
 
 [markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
 
-  [markup.highlight]
-    noClasses = false
+[markup.highlight]
+noClasses = false
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
