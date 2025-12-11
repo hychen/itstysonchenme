@@ -1,6 +1,6 @@
 ---
 title: "Research"
-description: "Foundations and structures for executable semantic order."
+description: "Foundational domains and structural analyses for executable semantic systems."
 layout: "page"
 
 showReadingTime: false
@@ -10,49 +10,78 @@ showBreadcrumbs: true
 showToc: false
 ---
 
-> This research section assumes the position defined in **Executable Semantic Order** and does not restate its definition. It focuses on analysis, structure, and projection within that position.
+# Research Program Overview
 
-This research centers on a single question:
+This research section forms part of a broader program concerned with the conditions under which **semantic structures** can become **executable, governable, and stable** within computational, institutional, and multi-agent environments.
 
-**Under what structural conditions can semantics become executable?**
+The program is organized across six foundational research domains:
 
-Rather than treating meaning as an interpretive or descriptive layer, this research examines how semantic structures can act as operational constraints—shaping execution, coordination, and responsibility within computational systems.
+- **Semantic Institutional Design**  
+- **Syntactic Entrepreneurship**  
+- **Semantic Module Engineering**  
+- **Multi-Agent Syntactic Collaboration**  
+- **Language Habitat & Rhythm Governance**  
+- **Co-Semantic Cognition**
 
-The work proceeds by identifying stable structural primitives that allow semantic commitments to be executed, composed, and externally inspected.
+These domains articulate the theoretical substrate for understanding semantics not as interpretation but as **structural material** for systems.  
+
+They define the problem space within which executable semantic order is situated, and establish the conceptual boundaries for structural analysis.
+
+The materials presented in this section should therefore be understood as **structural instantiations** of the broader semantic research program, rather than as its full conceptual extent.
+
+→ See [Research Domains]({{< ref "domains/_index.md" >}})
 
 ---
 
-## Research Axes
+# Structural Research Axes
 
-### Semantic Order
-The foundational research direction.
+Within the broader research program, this section focuses on three axes that examine **how semantic commitments become executable**, **what primitives are required**, and **what system-level projections emerge** under real constraints.
 
-This line of inquiry examines executable semantic order as a computational model:  
-how meaning, once formalized, can participate directly in system behavior rather than remaining an annotation or post-hoc interpretation.
+---
+
+## 1. Semantic Order  
+The foundational structural axis.
+
+This line of inquiry analyzes executable semantic order as a computational condition.  
+It investigates how meaning—once formalized and constrained—can participate directly in system behavior rather than remaining an annotation or interpretive layer.
 
 → See [Semantic Order]({{< ref "order/_index.md" >}})
 
 ---
 
-### Structural Primitives
-The foundational components from which executable semantic order is constructed.
+## 2. Structural Primitives  
+The constituent components from which executable semantic order is built.
 
-These include instruction-level semantic representations, interface layers between agents and code, identity and memory structures, and mechanisms for traceability and audit.
+This includes:
+
+- instruction-level semantic representations  
+- interfaces between agents, semantics, and code  
+- identity and memory structures  
+- traceability, accountability, and audit mechanisms  
+
+These primitives define the minimal conditions for semantic execution.
 
 → See [Structural Primitives]({{< ref "structures/_index.md" >}})
 
 ---
 
-### System Projections
-System-level forms that emerge when executable semantic order is examined under real constraints.
+## 3. System Projections  
+System-level forms that emerge when semantic order is applied to real environments.
 
-This includes operating environments, agent execution models, governance mechanisms, and enterprise-facing systems.
+Examples include:
+
+- operating environments  
+- agent execution models  
+- governance mechanisms  
+- enterprise and cross-border systems  
+
+These projections serve as analytic artifacts, not implementation proposals.
 
 → See [System Projections]({{< ref "applications/_index.md" >}})
 
 ---
 
-## Materials
+# Materials and Outputs
 
 Theoretical notes, working papers, and technical artifacts related to this research are collected under ongoing work and external outputs.
 
@@ -60,43 +89,38 @@ Theoretical notes, working papers, and technical artifacts related to this resea
 
 ---
 
-## Scope and Orientation
+# Scope and Orientation
 
-The materials presented in this section are research-oriented.
+The materials in this section are research-oriented and analytic in nature.  
+They examine structural conditions under which semantic commitments become:
 
-They examine the structural conditions under which semantic commitments can become executable, traceable, and stable within computational systems.
+- executable  
+- traceable  
+- inspectable  
+- stable  
+- delegable across agents  
 
-Descriptions of systems, agents, governance forms, or operating environments are treated as **analytic projections** of this research.
-They are not proposals, product specifications, implementation plans, or normative policy frameworks.
+Descriptions of agents, operating environments, or governance models are treated as **analytic projections** of these structural conditions, not as product specifications or policy frameworks.
 
-Where concrete systems or practices are mentioned, they serve as reference points for structural observation.
-Applied work and instantiations derived from this research are documented separately.
+Concrete systems referenced in this section serve as **reference points** for structural inquiry rather than implementation targets.  
+Applied systems derived from this research are documented separately.
 
-The purpose of this section is to articulate necessary conditions and recurring forms that emerge when semantic order participates directly in execution.
+The purpose of this section is to identify **necessary conditions**, **recurring forms**, and **structural constraints** that arise when semantic order participates directly in execution.
 
 ---
 
-## Research Field Use Notice
+# Research Field Use Notice
 
+This research defines a field of inquiry in which semantic order and related semantic–syntactic structures are examined as **executable, governable, and formally constrained phenomena**.
 
-This research defines a field of inquiry in which semantic order
-is examined as an executable structural condition.
+Readers are free to study, reference, critique, or develop independent work inspired by these materials.
 
-Readers are free to study, reference, critique, or develop independent work
-inspired by these materials.
+However, any work that claims to be *based on*, *derived from*, or *aligned with* this research program is expected to preserve the underlying semantic assumptions and problem boundaries defined here.
 
-However, any work that claims to be *based on*, *derived from*,
-or *aligned with* this research position is expected to preserve
-the underlying semantic assumptions and problem boundaries
-defined in this site.
+Reinterpretation, rebranding, or systematization that materially alters these assumptions should not be presented as an extension of this research.
 
-Reinterpretation, rebranding, or systematization that materially alters
-these assumptions should not be presented as an extension of this research.
-
-Certain materials may also be subject to additional usage constraints,
-including restrictions on automated or AI-mediated use,
-as described under the Language Ontology License (LOL v0.1).
+Certain materials may also be subject to additional usage constraints, including restrictions on automated or AI-mediated use, as described under the Language Ontology License (LOL v0.1).
 
 → See https://github.com/Language-Ontology-Institute/lol-license
 
-This notice defines field and attribution boundaries; it does not constitute a license or transfer of rights.
+This notice defines field boundaries and attribution expectations; it does not constitute a license or transfer of rights.
