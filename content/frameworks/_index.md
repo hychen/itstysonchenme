@@ -1,8 +1,8 @@
 ---
-title: "Positions"
-description: "Thematic position papers and structural perspectives."
+title: "Frameworks"
+description: "Theoretical frameworks and structural perspectives."
 ---
 
-This section collects structured position work across architectures, critiques, foundational principles, lineage studies, and standards.
+This section collects structured frameworks work across architectures, critiques, foundational principles, lineage studies, and standards.
 
-It represents the full position layer that frames the research program and its technical directions.
+It represents the full framework layer that frames the research program and its technical directions.

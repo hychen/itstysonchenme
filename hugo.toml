@@ -44,16 +44,22 @@ url = "https://github.com/hychen"
 [menu]
 
 [[menu.main]]
+identifier = "concepts"
+name = "Concepts"
+url = "/concepts/"
+weight = 1
+
+[[menu.main]]
 identifier = "position"
 name = "Position"
 url = "/position/"
 weight = 1
 
 [[menu.main]]
-identifier = "concepts"
-name = "Concept"
-url = "/concepts/"
-weight = 2
+identifier = "frameworks"
+name = "Frameworks"
+url = "/frameworks/"
+weight = 10
 
 [[menu.main]]
 identifier = "research"
