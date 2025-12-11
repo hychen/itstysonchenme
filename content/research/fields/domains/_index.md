@@ -2,6 +2,10 @@
 title: "Research Domains"
 summary: "Six foundational domains that structure an integrated research program in semantic systems, syntactic governance, and AI-mediated institutional design."
 weight: 1
+
+aliases:
+  - /research/domains/
+  - /research/domains/index.html
 ---
 
 This section presents six interrelated research domains that collectively define an integrated program in semantic systems and syntactic governance.  

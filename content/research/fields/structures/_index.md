@@ -8,6 +8,11 @@ showAuthor: false
 showDate: false
 showBreadcrumbs: true
 showToc: false
+
+aliases:
+  - /research/structures/
+  - /research/structures/index.html
+  - /research/struct/
 ---
 
 Executable semantic order is not implemented as a single system.

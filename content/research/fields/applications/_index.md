@@ -8,6 +8,10 @@ showAuthor: false
 showDate: false
 showBreadcrumbs: true
 showToc: false
+
+aliases:
+  - /research/applications/
+  - /research/applications/index.html
 ---
 
 Executable semantic order is not pursued as an abstract end in itself.

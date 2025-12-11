@@ -8,6 +8,10 @@ showAuthor: false
 showDate: false
 showBreadcrumbs: true
 showToc: false
+
+aliases:
+  - /research/index.html
+  - /research/
 ---
 
 # Research Program Overview

@@ -8,6 +8,10 @@ showAuthor: false
 showDate: false
 showBreadcrumbs: true
 showToc: false
+
+aliases:
+  - /research/order/
+  - /research/order/index.html
 ---
 
 This research develops the concept of an **executable semantic order**.
