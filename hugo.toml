@@ -68,6 +68,12 @@ url = "/research/"
 weight = 20
 
 [[menu.main]]
+identifier = "program"
+name = "Program"
+url = "/research/program/"
+weight = 25
+
+[[menu.main]]
 identifier = "work"
 name = "Work"
 url = "/work/"
