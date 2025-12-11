@@ -69,5 +69,28 @@ between language and execution.
 
 ---
 
+### What — AI-Native Economy
+
+Once semantics becomes executable,
+work can be delegated, verified, and completed
+without requiring human-centric supervision.
+
+This alters the economic structure of production:
+
+- coordination cost is reduced  
+- responsibility can be transferred across agents  
+- execution becomes replayable rather than labor-bound  
+- cross-border operations become machine-verifiable  
+- procurement shifts from tools to completion guarantees  
+
+Semantic execution is not only a technical shift.
+It establishes a new production model—  
+one in which organizations operate through  
+**executable semantic chains** rather than manual workflows.
+
+→ [Economics: AI-Native Economy](economics/ai-native-economy)
+
+---
+
 Research, architectures, and applied systems presented here
 are downstream of this positioning.
