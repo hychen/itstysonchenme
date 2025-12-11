@@ -92,8 +92,8 @@ Such expansion does not modify the underlying research structure, but reflects i
 
 ## Relation to Order and Structures
 
-- Conceptual foundation → see [Executable Semantic Order]({{< ref "research/order/_index.md" >}})  
-- Structural primitives → see [Structural Primitives]({{< ref "research/structures/_index.md" >}})
+- Conceptual foundation → see [Executable Semantic Order]({{< ref "research/fields/order/_index.md" >}})  
+- Structural primitives → see [Structural Primitives]({{< ref "research/fields/structures/_index.md" >}})
 
 ---
 

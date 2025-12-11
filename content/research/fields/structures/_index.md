@@ -104,8 +104,8 @@ Additional structures may emerge over time, but none substitutes for these found
 
 ## Relation to Order and Systems
 
-- Conceptual foundation → see [Executable Semantic Order]({{< ref "research/order/_index.md" >}})  
-- System-level projections → see [System Projections]({{< ref "research/applications/_index.md" >}})
+- Conceptual foundation → see [Executable Semantic Order]({{< ref "research/fields/order/_index.md" >}})  
+- System-level projections → see [System Projections]({{< ref "research/fields/applications/_index.md" >}})
 
 ---
 

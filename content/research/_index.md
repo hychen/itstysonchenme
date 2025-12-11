@@ -14,7 +14,7 @@ showToc: false
 
 This research section forms part of a broader program concerned with the conditions under which **semantic structures** can become **executable, governable, and stable** within computational, institutional, and multi-agent environments.
 
-The program is organized across six foundational research domains:
+The program is organized across seven foundational research domains:
 
 - **Semantic Institutional Design**  
 - **Syntactic Entrepreneurship**  
@@ -22,6 +22,7 @@ The program is organized across six foundational research domains:
 - **Multi-Agent Syntactic Collaboration**  
 - **Language Habitat & Rhythm Governance**  
 - **Co-Semantic Cognition**
+- **Semantic Economy**
 
 These domains articulate the theoretical substrate for understanding semantics not as interpretation but as **structural material** for systems.  
 
@@ -29,7 +30,7 @@ They define the problem space within which executable semantic order is situated
 
 The materials presented in this section should therefore be understood as **structural instantiations** of the broader semantic research program, rather than as its full conceptual extent.
 
-→ See [Research Domains]({{< ref "domains/_index.md" >}})
+→ See [Research Domains]({{< ref "fields/domains/_index.md" >}})
 
 ---
 
@@ -45,7 +46,7 @@ The foundational structural axis.
 This line of inquiry analyzes executable semantic order as a computational condition.  
 It investigates how meaning—once formalized and constrained—can participate directly in system behavior rather than remaining an annotation or interpretive layer.
 
-→ See [Semantic Order]({{< ref "order/_index.md" >}})
+→ See [Semantic Order]({{< ref "fields/order/_index.md" >}})
 
 ---
 
@@ -61,7 +62,7 @@ This includes:
 
 These primitives define the minimal conditions for semantic execution.
 
-→ See [Structural Primitives]({{< ref "structures/_index.md" >}})
+→ See [Structural Primitives]({{< ref "fields/structures/_index.md" >}})
 
 ---
 
@@ -77,7 +78,7 @@ Examples include:
 
 These projections serve as analytic artifacts, not implementation proposals.
 
-→ See [System Projections]({{< ref "applications/_index.md" >}})
+→ See [System Projections]({{< ref "fields/applications/_index.md" >}})
 
 ---
 
@@ -85,7 +86,7 @@ These projections serve as analytic artifacts, not implementation proposals.
 
 Theoretical notes, working papers, and technical artifacts related to this research are collected under ongoing work and external outputs.
 
-→ See [Work]({{< ref "work/_index.md" >}})
+→ See [Work]({{< ref "/work/_index.md" >}})
 
 ---
 

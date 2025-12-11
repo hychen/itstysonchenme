@@ -64,8 +64,8 @@ The core inquiry remains invariant across such instantiations.
 Executable semantic order is not implemented directly.
 It is realized through a small set of structural primitives, and manifests through concrete systems when deployed.
 
-- Structural foundations → see [Structural Primitives]({{< ref "research/structures/_index.md" >}})  
-- System-level manifestations → see [System Projections]({{< ref "research/applications/_index.md" >}})
+- Structural foundations → see [Structural Primitives]({{< ref "research/fields/structures/_index.md" >}})  
+- System-level manifestations → see [System Projections]({{< ref "research/fields/applications/_index.md" >}})
 
 ---
 

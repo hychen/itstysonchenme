@@ -90,9 +90,9 @@ This allows organizations to reason about operational behavior structurally rath
 
 ## Structural Placement
 
-- Agent-level execution → see [Agent Execution Model]({{< ref "agent-execution.md" >}})
-- Structural foundations → see [Structural Primitives]({{< ref "research/structures/_index.md" >}})
-- Broader system context → see [System Projections]({{< ref "research/applications/_index.md" >}})
+- Agent-level execution → see [Agent Execution Model]({{< ref "research/fields/applications/agent-execution.md" >}})
+- Structural foundations → see [Structural Primitives]({{< ref "research/fields/structures/_index.md" >}})
+- Broader system context → see [System Projections]({{< ref "research/fields/applications/_index.md" >}})
 
 ---
 

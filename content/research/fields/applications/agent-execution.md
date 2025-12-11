@@ -88,9 +88,9 @@ Agent execution under executable semantic order is therefore examined as a condi
 
 ## Structural Placement
 
-- Foundational constraints → see [Executable Semantic Order]({{< ref "research/order/_index.md" >}})  
-- Structural requirements → see [Structural Primitives]({{< ref "research/structures/_index.md" >}})  
-- System-level context → see [System Projections]({{< ref "research/applications/_index.md" >}})
+- Foundational constraints → see [Executable Semantic Order]({{< ref "research/fields/order/_index.md" >}})  
+- Structural requirements → see [Structural Primitives]({{< ref "research/fields/structures/_index.md" >}})  
+- System-level context → see [System Projections]({{< ref "research/fields/applications/_index.md" >}})
 
 ---
 
