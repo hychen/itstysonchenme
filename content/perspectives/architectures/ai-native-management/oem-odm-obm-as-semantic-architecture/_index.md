@@ -7,7 +7,7 @@ weight: 10
 # The Journey of a Smart Thermostat: From Design to Global Brand (OBM/ODM/OEM)
 
 ## Introduction
-This use case provides a comprehensive illustration of a Taiwanese company, InnovateTech Taiwan, navigating the complex landscape of global manufacturing and branding. It meticulously details the evolution through three distinct business models: Original Equipment Manufacturing (OEM), Original Design Manufacturing (ODM), and Original Brand Manufacturing (OBM). By applying the Agent Ontology, we demonstrate how semantic modeling can capture the dynamic shifts in business relationships, agent capabilities, and delegation structures as a company transforms its strategic position from a pure manufacturer to a global brand owner. This example is particularly relevant for understanding the digital transformation of traditional manufacturing industries into intelligent, agent-driven enterprises.
+This use case provides a comprehensive illustration of a mock Taiwanese company, InnovateTech Taiwan, navigating the complex landscape of global manufacturing and branding. It meticulously details the evolution through three distinct business models: Original Equipment Manufacturing (OEM), Original Design Manufacturing (ODM), and Original Brand Manufacturing (OBM). By applying the Agent Ontology, we demonstrate how semantic modeling can capture the dynamic shifts in business relationships, agent capabilities, and delegation structures as a company transforms its strategic position from a pure manufacturer to a global brand owner. This example is particularly relevant for understanding the digital transformation of traditional manufacturing industries into intelligent, agent-driven enterprises.
 
 ## User Story: InnovateTech Taiwan's Transformation
 

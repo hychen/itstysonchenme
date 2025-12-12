@@ -7,7 +7,7 @@ This document details a critical business process: the secure verification of a 
 
 ## User Story: Procuring Parts from a New German Supplier
 
-**As a** procurement manager at ACME Inc. (USA),
+**As a** procurement manager at mock company, called ACME Inc. (USA),
 **I want to** securely verify a new German supplier, Berlin Precision Parts, and make a cross-border payment of 50,000 EUR for high-precision components,
 **so that** I can ensure compliance, mitigate financial risk, and complete the procurement process efficiently.
 
