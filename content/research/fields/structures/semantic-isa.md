@@ -99,6 +99,7 @@ It is used as a **conceptual execution abstraction** within the research to reas
 - Interface and composition → see [AgentIDL]({{< ref "agentidl.md" >}})  
 - Identity and attribution → see [Identity & Memory]({{< ref "identity.md" >}})  
 - Traceability and audit → see [Semantic Ledger]({{< ref "ledger.md" >}})
+- Domain and culture adoption → see [Semantic DSL]({{< ref "semantic-dsl.md" >}})  
 
 ---
 
