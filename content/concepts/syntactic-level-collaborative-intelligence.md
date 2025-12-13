@@ -21,8 +21,6 @@ citations: []
 ---
 
 
-
-
 ## Definition
 
 Syntactic-Level Collaborative Intelligence refers to the human capacity to collaborate with artificial intelligence systems at the level of syntactic structure, rather than at the level of surface interaction or output evaluation.
@@ -104,6 +102,15 @@ The emergence of Syntactic-Level Collaborative Intelligence has implications for
 - and how responsibility is distributed between humans and machines.
 
 It suggests that the primary bottleneck in advanced AI integration is not model capability, but human structural readiness.
+
+### Scope note
+
+Syntactic-Level Collaborative Intelligence describes a *stable operational threshold*
+within a broader, higher-dimensional model of human–AI cognitive co-construction.
+
+The full model extends beyond executable and governable layers
+into speculative, meta-semantic, and theoretical domains.
+Those upper layers are intentionally excluded from this definition.
 
 ## Status
 

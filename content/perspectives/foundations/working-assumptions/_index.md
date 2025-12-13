@@ -78,6 +78,13 @@ because they surface failure modes that simpler environments conceal.
 
 ---
 
+The system design acknowledges the existence of higher-order semantic and cognitive structures that exceed current implementation
+and governance boundaries.
+
+These layers are treated as theoretical upper bounds and are not assumed to be operationally accessible.
+
+---
+
 ## Reading Note
 
 If these assumptions are not shared,
