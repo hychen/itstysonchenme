@@ -3,15 +3,32 @@ title: "Foundations"
 weight: 1
 ---
 
-This section defines the non-negotiable axioms and structural premises that underlie all subsequent work on semantic execution, agent systems, and AI governance.
+This section defines the axioms and structural premises
+that are treated as non-negotiable throughout this work.
 
-Foundations establish the minimum conditions for any system to be considered governable, auditable, and capable of supporting machine-level delegation. These documents do not describe applications or architectures; they specify the semantic requirements that make such architectures possible.
+Foundations do not propose architectures or applications.
+They specify the minimal semantic conditions under which
+any system claiming to support executable language,
+agent-based delegation, or institutional AI
+can be considered coherent, governable, and auditable.
 
-Topics in this section include:
+The purpose of this section is to establish
+what must already be true
+before questions of models, optimization, or deployment are meaningful.
 
-- Axioms governing semantic primacy over models  
-- Completion as the unit of correctness  
-- Responsibility as an assignable, transferable, and terminable construct  
+---
+
+## Scope
+
+Topics addressed here include:
+
+- Axioms asserting semantic primacy over model behavior  
+- Completion defined as a condition of correctness, not output  
+- Responsibility modeled as a grantable, transferable, and terminable construct  
 - The boundaries of semantic execution as a computational paradigm  
 
-All later articles, standards, and system designs inherit their semantic constraints from this section.
+These foundations define constraints, not preferences.
+
+All subsequent positions, standards, and system designs
+inherit their semantic limits from this section.
+They are evaluated against it, not alongside it.
