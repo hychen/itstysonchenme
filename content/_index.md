@@ -33,11 +33,11 @@ verification, and coordination across agents and systems.
 
 A map of the structural foundations developed across this site:
 
-### **Position**
+### **Positions**
 Fundamental stance that define the operational shift
 from model-centric AI to semantic execution.
 
-→ [`/position/`](/position/)
+→ [`/positions/`](/positions/)
 
 ### **Concepts**
 Technical constructs such as Semantic ISA, Agent IDL, and execution admissibility.
