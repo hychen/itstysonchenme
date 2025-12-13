@@ -9,6 +9,9 @@ draft: false
 Semantic primacy asserts that semantic structure precedes model behavior
 as the primary determinant of executable meaning.
 
+Learning in this framework is not treated as automatic parameter adaptation,
+but as a governed semantic process subject to meta-cognitive constraints.
+
 This is not a claim about intelligence or cognition.
 It is a technical premise about where control, accountability,
 and stability must reside in executable language systems.
