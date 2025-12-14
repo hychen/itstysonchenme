@@ -5,8 +5,6 @@ description: "This section outlines how semantic execution reframes policy, publ
 weight: 10
 ---
 
-# Semantic Execution for Policymakers
-
 When semantic intent becomes executable,  
 governance no longer addresses interpretation alone.  
 It must address how commitments propagate through delegated tasks,  

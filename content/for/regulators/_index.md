@@ -5,8 +5,6 @@ description: "This section examines the requirements for traceability, delegatio
 weight: 20
 ---
 
-# Semantic Execution for Regulators
-
 Regulatory systems depend on clarity of action,  
 traceability of responsibility,  
 and predictable pathways for redress.
@@ -18,7 +16,8 @@ Semantic execution introduces new conditions:
 - distributed responsibility over delegated tasks  
 - verification of completion states  
 
-This section outlines how these conditions map to compliance frameworks,  
-including admissibility rules, auditability requirements,  
-and the structural constraints needed to support safe deployment  
+This section defines the structural constraints without which
+compliance frameworks cannot operate,
+including admissibility rules, auditability requirements,
+and the conditions required for safe deployment
 under emerging AI regulatory regimes.

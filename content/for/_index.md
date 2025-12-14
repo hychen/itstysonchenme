@@ -44,6 +44,10 @@ Operational impacts on coordination, risk, and AI-native management.
 Scaling through semantic delegation rather than headcount expansion.  
 → [Startups](/for/startups/)
 
+### Entrepreneurs
+The responsibility conditions founders face when delegating execution to AI systems.
+→ [Entrepreneurs](/for/entrepreneurs/)
+
 ### Investors
 A framework for evaluating AI-native companies and new sources of alpha.
 → [Investors](/for/investors/)
@@ -51,6 +55,10 @@ A framework for evaluating AI-native companies and new sources of alpha.
 ### Cross-Border SMB  
 Stabilizing workflows across jurisdictions, languages, and documentation regimes.  
 → [Cross-Border SMB](/for/cross-border-smb/)
+
+### Researchers
+Structural research questions arising when semantic intent becomes executable.
+→ [Researchers](/for/reaseacher/)
 
 ---
 

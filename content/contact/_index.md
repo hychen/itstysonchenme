@@ -52,6 +52,8 @@ you may reference it when reaching out:
 - [Enterprises](/for/enterprises/) operating cross-border execution chains
 - [Cross-border SMBs](/for/cross-border-smb/) operating cross-border execution chains
 - [Startups](/for/startups/) operating cross-border execution chains
+- [Entrepreneurs](/for/entrepreneurs/) evaluating delegation authority
 - [Policymakers](/for/policymakers/) evaluating admissibility
 - [Regulators](/for/regulators/) evaluating admissibility
 - [Developers](/for/developers/) integrating execution constraints
+- [Researchers](/for/researcher/) evaluating admissibility
