@@ -1,6 +1,6 @@
 ---
 title: "Semantic Compression as a Control Surface（2025）"
-date: 2025-12-14
+date: 2025-06-11
 type: field-note
 tags:
   - semantic-compression
