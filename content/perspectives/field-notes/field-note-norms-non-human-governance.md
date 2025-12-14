@@ -9,11 +9,6 @@ categories = ["field-notes"]
 tags = ["norms", "governance", "non-human-actors", "institutional-design"]
 +++
 
-> 「無機生命，網路上互相反應(reaction)的節點也，是人亦可非人。」
-> 這些大大小小的個體從社群禮儀演化出來的「網路規範」（cyber norm）才是。
-> 彼岸無機生命禮儀研究科，該服務的對象是一個最後會有集體意識的禮儀，
-> 不管是國外的人民，國內的人民，甚至是機器，都在這個「禮儀」（norm）所聯繫，
-> 又是有獨立自主意識的個體，又是全體的一份。是一種「如來見我，我見如來」的意味
 
 ## Context
 
@@ -27,6 +22,12 @@ This document exists to mark those arguments explicitly, without restating them.
 
 It does not revise the original text.  
 It identifies which parts function as *early formulations* of ideas that were later developed more formally.
+
+> 「無機生命，網路上互相反應(reaction)的節點也，是人亦可非人。」
+> 這些大大小小的個體從社群禮儀演化出來的「網路規範」（cyber norm）才是。
+> 彼岸無機生命禮儀研究科，該服務的對象是一個最後會有集體意識的禮儀，
+> 不管是國外的人民，國內的人民，甚至是機器，都在這個「禮儀」（norm）所聯繫，
+> 又是有獨立自主意識的個體，又是全體的一份。是一種「如來見我，我見如來」的意味
 
 ---
 
