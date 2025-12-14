@@ -35,6 +35,9 @@ Relevant focus areas include:
 - the use of verifiable credentials to express and verify authorization and responsibility,
 - and limits of purely syntactic interoperability models.
 
+See also:
+- [W3C S-Agent Communication CG](https://www.w3.org/groups/cg/s-agent-comm/)
+
 ---
 
 ### Linux Foundation and Open Source Contexts
