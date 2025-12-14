@@ -17,7 +17,7 @@ ShowCodeCopyButtons = true
 ShowAllPagesInArchive = true
 ShowPageNums = true
 ShowToc = true
-mainSections = ["position", "research"]
+mainSections = ["/"]
 
 # Homepage content is fully driven by content/_index.md
 # homeInfoParams intentionally omitted
@@ -83,8 +83,8 @@ url = "/work/"
 weight = 60
 
 [[menu.main]]
-name = "About"
-url = "/about/"
+name = "Contact"
+url = "/contact/"
 weight = 70
 
 [markup]

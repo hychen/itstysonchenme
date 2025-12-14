@@ -1,5 +1,5 @@
 ---
-title: "Executable Semantic Order"
+title: "Executable Semantic Order Overview"
 description: "Structural conditions for making semantics executable, auditable, and composable across agents and systems."
 ---
 

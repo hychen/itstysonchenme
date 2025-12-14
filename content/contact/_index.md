@@ -2,28 +2,56 @@
 title: "Contact"
 ---
 
-Communication is welcomed within appropriate scope.
+This site is maintained as a reference for work
+that operates at the level of execution, structure, and responsibility.
+
+Communication is considered when it is scoped,
+contextualized, and grounded in concrete engagement.
+
+---
+
+## Appropriate Contact
+
+Contact is appropriate if your inquiry relates to:
+
+- execution-level system design
+- responsibility, delegation, or admissibility questions
+- research or standardization work that builds on the positions defined here
+
+General introductions, open-ended discussion,
+or requests for explanation are outside the intended scope.
+
+---
+
+## Channels
 
 - **Email**  
-  Primary channel for research discussion and technical correspondence.
+  For focused research correspondence or position-level discussion.
 
 - **LinkedIn**  
-  For professional connection and organizational context.
+  For organizational context or applied work related to SlashLife AI.
 
 - **GitHub**  
-  For code, references, and implementation-related material.
+  For code, specifications, or implementation references.
 
 ---
 
-### Contextual Inquiries
+## Context Alignment
 
-- **Research and Collaboration**  
-  Please use email for focused discussion or exploratory exchange.
+If helpful, you may reference a specific section of this site
+(e.g. a position, execution condition, or related work)
+to indicate context alignment.
 
-- **Applied Work and SlashLife AI**  
-  LinkedIn or direct corporate contact is preferred.
+This allows communication to begin at the appropriate level.
 
----
+If your context aligns with one of the following references
+(which are indicative, not exhaustive),
+you may reference it when reaching out:
 
-This site serves as a point of reference.
-Direct, scoped communication is appreciated.
+- [Investors](/for/investors/) interested in execution constraints
+- [Enterprises](/for/enterprises/) operating cross-border execution chains
+- [Cross-border SMBs](/for/cross-border-smb/) operating cross-border execution chains
+- [Startups](/for/startups/) operating cross-border execution chains
+- [Policymakers](/for/policymakers/) evaluating admissibility
+- [Regulators](/for/regulators/) evaluating admissibility
+- [Developers](/for/developers/) integrating execution constraints

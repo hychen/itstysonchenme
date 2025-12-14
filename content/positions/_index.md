@@ -17,3 +17,5 @@ These assumptions are not restated in full here and summarized below and treated
 7. **Agent execution presupposes persistent identity and semantic stability.**
 
 Readers unfamiliar with these assumptions may wish to consult [*Foundational assumptions*](/perspectives/foundations/working-assumptions) before proceeding.
+
+For an overview of how these positions relate, see [Overview: Executable Semantic Order](/overview/executable-semantic-order/).
