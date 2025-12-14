@@ -1,30 +1,16 @@
 {{- if .IsPage -}}
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": {{ .Title | safeJS }},
-  "description": {{ .Description | safeJS }},
-  {{- with .Params.cover }}
-  "image": {
-    "@type": "ImageObject",
-    "url": "{{ .image | absURL }}",
-    "width": {{ .imageWidth | default 1200 }},
-    "height": {{ .imageHeight | default 630 }}
-  },
-  {{- end }}
-  "author": {
-    "@id": "https://itstysonchen.me/#person"
-  },
-  "publisher": {
-    "@id": "https://slashlife.ai/#organization"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": {{ .Permalink | safeURL }}
-  },
-  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
-  "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}"
-}
+{{- $article := dict "@context" "https://schema.org" "@type" "Article" -}}
+{{- $article = merge $article (dict "headline" .Title) -}}
+{{- $article = merge $article (dict "description" .Description) -}}
+{{- with .Params.cover -}}
+{{- $article = merge $article (dict "image" (dict "@type" "ImageObject" "url" (.image | absURL) "width" (.imageWidth | default 1200) "height" (.imageHeight | default 630))) -}}
+{{- end -}}
+{{- $article = merge $article (dict "author" (dict "@id" "https://itstysonchen.me/#person")) -}}
+{{- $article = merge $article (dict "publisher" (dict "@id" "https://slashlife.ai/#organization")) -}}
+{{- $article = merge $article (dict "mainEntityOfPage" (dict "@type" "WebPage" "@id" .Permalink)) -}}
+{{- $article = merge $article (dict "datePublished" (.Date.Format "2006-01-02T15:04:05Z07:00")) -}}
+{{- $article = merge $article (dict "dateModified" (.Lastmod.Format "2006-01-02T15:04:05Z07:00")) -}}
+{{- $article | jsonify (dict "indent" "  ") -}}
 </script>
 {{- end -}}
