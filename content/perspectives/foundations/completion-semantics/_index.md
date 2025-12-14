@@ -1,7 +1,7 @@
 ---
 title: "Completion Semantics"
 description: "Completion Conditions as Execution Core"
-weight: 5
+weight: 20
 ---
 
 Completion semantics describes how execution is considered *finished*.

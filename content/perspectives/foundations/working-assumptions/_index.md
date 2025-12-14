@@ -1,5 +1,6 @@
 ---
 title: Working Assumptions
+weight: 40
 ---
 
 This work proceeds from a set of assumptions that differ materially from those held in most contemporary AI development and deployment efforts.
