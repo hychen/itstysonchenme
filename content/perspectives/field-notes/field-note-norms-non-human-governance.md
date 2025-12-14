@@ -1,5 +1,5 @@
 +++
-title = "On Norms, Non-Human Actors, and Governance Beyond Persons"
+title = "On Norms, Non-Human Actors, and Governance Beyond Persons（2025）"
 slug = "field-note-norms-non-human-governance"
 date = 2025-12-14
 draft = false
