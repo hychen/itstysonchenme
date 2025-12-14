@@ -1,5 +1,5 @@
 ---
-title: "Language as an Operational Interface"
+title: "Language as an Operational Interface（2017）"
 date: 2023-03-11
 ---
 
