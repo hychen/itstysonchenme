@@ -1,6 +1,6 @@
 ---
 title: "Trustworthy AI: A Staged Path"
-date: 2025-12-14
+date: 2025-6-14
 ---
 
 ## Trustworthy AI as an Engineering Path
