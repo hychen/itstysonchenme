@@ -1,0 +1,30 @@
+{{- if .IsPage -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": {{ .Title | safeJS }},
+  "description": {{ .Description | safeJS }},
+  {{- with .Params.cover }}
+  "image": {
+    "@type": "ImageObject",
+    "url": "{{ .image | absURL }}",
+    "width": {{ .imageWidth | default 1200 }},
+    "height": {{ .imageHeight | default 630 }}
+  },
+  {{- end }}
+  "author": {
+    "@id": "https://itstysonchen.me/#person"
+  },
+  "publisher": {
+    "@id": "https://slashlife.ai/#organization"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": {{ .Permalink | safeURL }}
+  },
+  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}"
+}
+</script>
+{{- end -}}

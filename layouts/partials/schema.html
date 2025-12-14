@@ -1,43 +1,56 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Person",
-  "@id": "https://itstysonchen.me/#person",
-  "name": "Hsin-Yi (Tyson) Chen",
-  "url": "https://itstysonchen.me",
-  "jobTitle": "Founder",
-  "description": "Founder working on semantic execution systems, agent architectures, and accountable AI systems.",
-  "sameAs": [
-    "https://www.linkedin.com/in/itstysonchen",
-    "https://github.com/hychen"
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://itstysonchen.me/#person",
+      "name": "Hsin-Yi (Tyson) Chen",
+      "url": "https://itstysonchen.me",
+      "jobTitle": "Founder",
+      "description": "Founder working on semantic execution systems, agent architectures, and accountable AI systems.",
+      "sameAs": [
+        "https://www.linkedin.com/in/itstysonchen",
+        "https://github.com/hychen"
+      ],
+      "worksFor": {
+        "@id": "https://slashlife.ai/#organization"
+      },
+      "knowsAbout": [
+        "Semantic Execution",
+        "Agent Architectures",
+        "Trustworthy AI",
+        "AI Governance",
+        "AI Native Management",
+        "Machine-to-Machine Economy"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://slashlife.ai/#organization",
+      "name": "SlashLife AI",
+      "url": "https://slashlife.ai/",
+      "founder": {
+        "@id": "https://itstysonchen.me/#person"
+      },
+      "description": "Research-driven engineering organization focused on semantic execution, agent responsibility, and trustworthy AI systems.",
+      "knowsAbout": [
+        "Semantic Execution",
+        "Agent Architectures",
+        "Trustworthy AI",
+        "AI Governance"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://itstysonchen.me/#website",
+      "url": "https://itstysonchen.me/",
+      "name": "Foundational Work on Semantic Execution and Trustworthy AI",
+      "publisher": {
+        "@id": "https://slashlife.ai/#organization"
+      },
+      "inLanguage": "en"
+    }
   ]
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "@id": "https://slashlife.ai/#organization",
-  "name": "SlashLife AI",
-  "url": "https://slashlife.ai/",
-  "founder": {
-    "@id": "https://itstysonchen.me/#person"
-  },
-  "description": "Research-driven engineering organization focused on semantic execution, agent responsibility, and trustworthy AI systems."
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebSite",
-  "@id": "https://itstysonchen.me/#website",
-  "url": "https://itstysonchen.me/",
-  "name": "Foundational Work on Semantic Execution and Trustworthy AI",
-  "publisher": {
-    "@id": "https://itstysonchen.me/#organization"
-  },
-  "inLanguage": "en"
 }
 </script>
