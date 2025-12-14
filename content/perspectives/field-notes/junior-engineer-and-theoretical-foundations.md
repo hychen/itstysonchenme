@@ -1,5 +1,5 @@
 ---
-title: "Computational Foundations in Agent System Development"
+title: "Computational Foundations in Agent System Development（2025）"
 date: 2025-04-01
 type: field-notes
 tags:

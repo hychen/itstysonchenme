@@ -1,10 +1,11 @@
 ---
-title: Narrative Dancing
+title: Narrative Dancing（2025）
 status: exploratory
 type: field-note
 summary: >
   An embodied exploration of narrative rhythm, tone modulation,
   and syntactic flow through dance and bodily practice.
+date: 2025-05-01
 ---
 
 ## Note on Scope
