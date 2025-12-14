@@ -1,134 +1,45 @@
 ---
 title: "Executable Semantic Order"
-description: "Structural conditions for making semantics executable, auditable, and composable across agents and systems."
+description: "Structural constraints for systems where semantic intent enters execution."
 ---
 
-# Executable Semantic Order
+## This site is not an introduction.
 
-Semantic execution has become unavoidable.
+This site defines **structural conditions**
+under which semantic intent may legitimately participate in execution,
+verification, and coordination across systems.
 
-As semantic intent crosses into execution,
-failures are no longer interpretive errors
-but operational breakpoints in composite task chains.
-Interrupted delegation, irrecoverable side effects,
-and untraceable responsibility become system risks,
-not model issues.
+It is written for readers who are already dealing with
+systems that **act**, **delegate**, and **produce consequences**.
 
-Once semantics participates in execution,
-it can no longer be treated as a descriptive or interpretive layer,
-but as a structural constraint on system behavior—
-governing what actions are possible,
-how they compose,
-and how responsibility is assigned.
-
-This site documents a coherent position and a set of stable structures
-that define **executable semantic order**:
-the conditions under which semantic commitments
-may legitimately enter execution,
-verification, and coordination across agents and systems.
+If you are looking for explanations, tutorials, or conceptual overviews,
+this site will likely feel incomplete.
 
 ---
 
-## Core Sections
+## What is defined here
 
-A map of the structural foundations developed across this site:
-
-### **Positions**
-Fundamental stance that define the operational shift
-from model-centric AI to semantic execution.
-
-→ [`/positions/`](/positions/)
-
-### **Concepts**
-Technical constructs such as Semantic ISA, Agent IDL, and execution admissibility.
-
-→ [`/concepts/`](/concepts/)
-
-### **Perspectives**
-Architectural analyses, critiques of current approaches,
-and forward-looking structural views.
-
-→ [`/perspectives/`](/perspectives/)
-
-### **Economics**
-Economic conditions shaped by semantic execution:
-productivity, procurement, cross-border operations,
-and machine-to-machine exchange.
-
-→ [`/economics/`](/economics/)
-
-### **Research**
-Drafts, formalizations, and theoretical lineages
-that ground the technical and institutional proposals.
-
-→ [`/research/`](/research/)
+- Non-negotiable positions that bound executable semantics
+- Execution constraints for delegation and responsibility
+- Structural interfaces between language and action
+- Ongoing work on systems that operate under these conditions
 
 ---
 
-## Why — AI-Native Management
+## Where to go next
 
-Management theory assumed that only humans execute work.
+- **Positions**  
+  Foundational constraints. These are assumed, not debated.  
+  → `/positions/`
 
-That assumption no longer holds.
+- **Execution**  
+  How semantic intent becomes constrained, inspectable action.  
+  → `/execution/`
 
-When AI systems execute tasks, generate legal and financial artefacts,
-and leave persistent execution traces,
-management must shift from supervising people
-to governing executable semantic chains.
+- **Work**  
+  Systems and structures currently under construction.  
+  → `/work/`
 
-→ [Position: AI-Native Management](/positions/ai-native-management/)
-
----
-
-## When — Executable Semantic Order
-
-Not every semantic statement should be allowed to execute.
-
-Before any system, agent, or workflow can act,
-there must exist clear structural conditions
-under which semantic commitments become executable premises.
-
-This layer defines admissibility.
-
-→ [Position: Executable Semantic Order](/positions/executable-semantic-order/)
-
----
-
-## How — Semantic ISA
-
-Once execution is admissible,
-semantic intent must be transformed
-into constrained, inspectable, and replayable instructions.
-
-Semantic ISA defines the instruction boundary
-between language and execution.
-
-→ [Concept: Semantic ISA](/concepts/semantic-isa/)
-
----
-
-### What — AI-Native Economy
-
-Once semantics becomes executable,
-work can be delegated, verified, and completed
-without requiring human-centric supervision.
-
-This alters the economic structure of production:
-
-- coordination cost is reduced  
-- responsibility can be transferred across agents  
-- execution becomes replayable rather than labor-bound  
-- cross-border operations become machine-verifiable  
-- procurement shifts from tools to completion guarantees  
-
-Semantic execution is not only a technical shift.
-It establishes a new production model—  
-one in which organizations operate through  
-**executable semantic chains** rather than manual workflows.
-
-→ [Economics: AI-Native Economy](economics/ai-native-economy)
-
----
-
-Research, architectures, and applied systems presented here
-are downstream of this positioning.
+- **Contact**  
+  Only if you are engaging at the level of execution or responsibility.  
+  → `/contact/`

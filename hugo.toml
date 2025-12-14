@@ -48,29 +48,34 @@ url = "/positions/"
 weight = 10
 
 [[menu.main]]
-name = "Concepts"
-url = "/concepts/"
+name = "Execution"
+url = "/execution/"
 weight = 20
 
-[[menu.main]]
-name = "Perspectives"
-url = "/perspectives/"
-weight = 30
+# [[menu.main]]
+# name = "Concepts"
+# url = "/concepts/"
+#weight = 20
 
-[[menu.main]]
-name = "Economics"
-url = "/economics/"
-weight = 40
+# [[menu.main]]
+# name = "Perspectives"
+# url = "/perspectives/"
+# weight = 30
 
-[[menu.main]]
-name = "For Visitors"
-url = "/for/"
-weight = 1
+# [[menu.main]]
+# name = "Economics"
+# url = "/economics/"
+# weight = 40
 
-[[menu.main]]
-name = "Research"
-url = "/research/"
-weight = 50
+# [[menu.main]]
+# name = "For Visitors"
+# url = "/for/"
+# weight = 1
+
+# [[menu.main]]
+# name = "Research"
+# url = "/research/"
+# weight = 50
 
 [[menu.main]]
 name = "Work"
