@@ -3,8 +3,6 @@ title: "Executable Semantic Order Overview"
 description: "Structural conditions for making semantics executable, auditable, and composable across agents and systems."
 ---
 
-# Executable Semantic Order
-
 Semantic execution has become unavoidable.
 
 As semantic intent crosses into execution,
