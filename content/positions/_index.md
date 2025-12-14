@@ -13,5 +13,7 @@ These assumptions are not restated in full here and summarized below and treated
 3. **Agents are accountable actors**, not workflow abstractions.
 4. **AI enters institutions before it enters products at scale.**
 5. **Standards are engineering artifacts**, not external constraints.
+6. **High-friction domains are primary validation environments**.
+7. **Agent execution presupposes persistent identity and semantic stability.**
 
 Readers unfamiliar with these assumptions may wish to consult [*Foundational assumptions*](/perspectives/foundations/working-assumptions) before proceeding.

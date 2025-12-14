@@ -84,6 +84,31 @@ and governance boundaries.
 
 These layers are treated as theoretical upper bounds and are not assumed to be operationally accessible.
 
+## 7. Agents require persistent identity and semantic stability
+
+Execution-oriented agents cannot be treated as stateless language interfaces.
+
+An agent that participates in ongoing interaction, delegation, or institutional processes
+must maintain a persistent identity across time, context, and interaction boundaries.
+
+This identity is not cosmetic.
+It governs how language output remains internally consistent,
+how memory is selectively retained or discarded,
+and how authority, scope, and responsibility are applied across actions.
+
+In this work, what is sometimes referred to as “agent personality”
+does not denote tone, role-play, or stylistic variation.
+It denotes a runtime-level semantic stabilizer:
+a structural component that allows an agent to remain coherent
+under context shifts, partial memory, and long-horizon execution.
+
+Without such a structure,
+agent behavior degrades into short-term context optimization,
+and accountability becomes irrecoverable.
+
+Agent identity and semantic stability are therefore treated
+as system components, not interface design choices.
+
 ---
 
 ## Reading Note
