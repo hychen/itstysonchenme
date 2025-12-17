@@ -5,7 +5,7 @@ type: position
 schema:
   type: PositionPaper
   version: '0.1'
-weight: 1
+weight: 70
 claims: []
 assumptions: []
 citations: []

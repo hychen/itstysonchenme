@@ -5,10 +5,10 @@ type: position
 schema:
   type: PositionPaper
   version: '0.1'
-weight: 5
 claims: []
 assumptions: []
 citations: []
+weight: 20
 date: 2025-07-04
 ---
 

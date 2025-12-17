@@ -1,6 +1,5 @@
 ---
 title: Executable Semantic Order
-weight: 1
 type: position
 schema:
   type: PositionPaper
@@ -8,6 +7,7 @@ schema:
 claims: []
 assumptions: []
 citations: []
+weight: 80
 ---
 
 

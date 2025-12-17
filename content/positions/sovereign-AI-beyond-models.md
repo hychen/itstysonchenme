@@ -9,6 +9,7 @@ claims: []
 assumptions: []
 citations: []
 date: 2025-05-08
+weight: 30
 ---
 
 ## From Model Competition to Institutional Sovereignty

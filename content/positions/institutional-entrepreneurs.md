@@ -5,10 +5,10 @@ type: position
 schema:
   type: PositionPaper
   version: '0.1'
-weight: 1
 claims: []
 assumptions: []
 citations: []
+weight: 10
 ---
 
 Institutional entrepreneurs did not meaningfully exist in earlier historical periods.

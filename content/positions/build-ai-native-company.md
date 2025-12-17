@@ -5,11 +5,11 @@ type: position
 schema:
   type: PositionPaper
   version: '0.1'
-weight: 5
 claims: []
 assumptions: []
 citations: []
 date: 2025-06-17
+weight: 60
 ---
 
 ## A Structural Transition

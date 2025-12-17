@@ -1,6 +1,5 @@
 ---
 title: Semantic ISA
-weight: 2
 type: position
 schema:
   type: PositionPaper
@@ -8,6 +7,7 @@ schema:
 claims: []
 assumptions: []
 citations: []
+weight: 90
 ---
 
 
