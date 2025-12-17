@@ -5,7 +5,7 @@ description: "Researcher and founder working on executable semantic order."
 
 I work on the construction of **executable semantic order**.
 
-I publish and work under the name Tyson Chen (Hsin Yi Chen).
+I publish and work under the name Hsin Yi (Tyson) Chen.
 
 My research investigates the structural conditions under which semantics can function as an operational constraint within computational systems—shaping execution, coordination, and responsibility rather than remaining a descriptive layer.
 
