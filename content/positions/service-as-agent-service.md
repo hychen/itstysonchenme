@@ -102,11 +102,13 @@ Composition requires:
 
 ## Applied Verification
 
-We are testing this structure in applied domains
+This structure in applied domains
 where accountability and traceability are non-negotiable:
 
 - accounting,
-- and fitness coaching operations.
+- procurement,
+- software development,
+- and even dance, fitness, coaching operations.
 
 The verification focus is whether agents can:
 
