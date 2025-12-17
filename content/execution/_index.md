@@ -6,7 +6,7 @@ description: "How semantic intent enters constrained, accountable execution."
 Before execution begins,
 the human subject must remain explicit.
 
-→ [The Human Common Oath](/execution/rituals/human-common-oath/)
+→ [The Human Common Oath](/rituals/human-common-oath/)
 
 ---
 
