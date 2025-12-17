@@ -1,6 +1,8 @@
 ---
-title: "AI Liability Insurance and UL Certification"
+title: "AI Liability Insurance and UL-like Certification"
 description:  "Trusted Operation and Claims Adjudication for an Autonomous Surgical Robot"
+date: 2025-12-11
+weight: 500
 ---
 
 ## Introduction

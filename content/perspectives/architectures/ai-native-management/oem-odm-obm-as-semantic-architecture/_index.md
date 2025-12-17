@@ -1,6 +1,7 @@
 ---
 title: "OEM, ODM, and OBM as Evolutions in Semantic Architecture"
 description: "An analysis of enterprise transformation from OEM to OBM, modeled as a dynamic shift in agent capabilities, intents, and delegations."
+date: 2025-12-11
 weight: 10
 ---
 

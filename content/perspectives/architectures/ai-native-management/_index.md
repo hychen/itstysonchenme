@@ -1,9 +1,8 @@
 ---
 title: "AI-Native Management"
 description: "Semantic Task Chain and Organizational Execution Architecture"
-slug: "/perspectives/architectures/ai-native-management/"
 date: 2025-12-11
-draft: false
+weight: 30
 ---
 
 This section explores how semantic execution fundamentally redefines organizational design and management in the age of AI. It moves beyond traditional hierarchical models to envision enterprises as dynamic networks of autonomous agents, governed by clear intents, capabilities, and verifiable delegations.
