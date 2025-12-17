@@ -71,6 +71,51 @@ Narratives stabilize.
 
 ---
 
+## Structural Dependency in the Global AI Economy
+
+Global AI competition is often described as a race for models,
+compute, or data.
+This framing obscures a deeper dependency.
+
+Control over AI deployment increasingly resides
+not with those who execute systems,
+but with those who define:
+- standards,
+- authorization regimes,
+- and narratives of legitimacy.
+
+Execution capacity without institutional leverage
+results in structural dependence.
+
+Actors build systems,
+assume risk,
+and solve problems—
+yet remain bound by external licensing,
+compliance definitions,
+and market access conditions.
+
+---
+
+## Sovereignty Beyond Model Ownership
+
+AI sovereignty, therefore,
+cannot be reduced to model ownership or hardware capacity.
+
+It requires the ability to:
+- define admissibility,
+- allocate responsibility,
+- and mediate trust across jurisdictions.
+
+Without institutional leverage,
+technical capability translates into execution,
+not sovereignty.
+
+This is why sovereign AI strategies
+must address semantic governance,
+trust infrastructure,
+and standard-setting capacity
+as primary assets.
+
 ## Status
 
 This position outlines a structural interpretation of sovereign AI.

@@ -121,6 +121,60 @@ already approaches the scale of foundational industries.
 
 ---
 
+---
+
+## A Structural Constraint: Value Chain Rent Extraction
+
+The emergence of Trustable AI as an institutional industry
+cannot be understood in isolation.
+It responds to a deeper structural condition
+in the global value chain.
+
+In recent decades, value capture has increasingly migrated upstream.
+Pricing power, authorization rights, and narrative control
+are concentrated where standards are defined,
+names are assigned,
+and legitimacy is granted.
+
+Execution, manufacturing, and operational risk
+are distributed downstream.
+
+Value is extracted through:
+- intellectual property regimes,
+- platform licensing,
+- brand authorization,
+- and compliance with externally defined standards.
+
+This is not a failure of innovation.
+It is an asymmetry of institutional authority.
+
+---
+
+## Why Trust Infrastructure Becomes Strategic
+
+In such a structure,
+actors positioned primarily as executors
+may demonstrate world-class technical competence,
+yet remain constrained in value capture.
+
+Innovation occurs.
+Markets grow.
+But authorization and pricing remain external.
+
+Trustable AI emerges precisely at this fault line.
+
+By formalizing responsibility chains,
+semantic transparency,
+and compliance interfaces,
+trust infrastructure becomes an intermediate institutional layer
+between execution and authorization.
+
+Value is not extracted through domination,
+but through indispensability.
+
+Trust becomes not a moral claim,
+but a structural service.
+
 ## Core Modules of Trustable AI
 
 A trustable AI system is not a single product.
