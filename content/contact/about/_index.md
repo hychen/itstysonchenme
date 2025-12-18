@@ -9,6 +9,8 @@ I publish and work under the name Hsin Yi (Tyson) Chen.
 
 My research investigates the structural conditions under which semantics can function as an operational constraint within computational systems—shaping execution, coordination, and responsibility rather than remaining a descriptive layer.
 
+This work is grounded in a systems engineering background, spanning embedded systems, software infrastructure, applied AI systems, and civic technologies.
+
 ---
 
 ## Focus
