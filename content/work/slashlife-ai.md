@@ -60,3 +60,11 @@ These settings highlight how differences in legal, financial, and operational se
 SlashLife AI is treated here as an **applied environment** rather than as a definitive solution.
 
 The observations derived from this context inform research iteration, but do not redefine the underlying conceptual framework.
+
+## Relationship to the Overall System
+
+This venture context does not define the scope or direction of the underlying research.
+
+Rather, it functions as a bounded environment in which execution assumptions, responsibility models, and semantic constraints are exposed to real institutional friction.
+
+Findings from this context may inform iteration or refinement, but the architectural premises articulated elsewhere remain primary.
