@@ -9,8 +9,6 @@ schema:
 ---
 
 
-
-
 [SlashLife AI](https://slashlife.ai) is a venture I founded to apply **executable semantic order** under real-world enterprise constraints.
 
 The work documented here reflects how the underlying structures are implemented, constrained, and negotiated in commercial and organizational settings. It is not presented as an independent research program or a comprehensive product specification, but as an applied environment in which feasibility is tested.
@@ -20,6 +18,8 @@ SlashLife AI operates in environments where multiple software agents, often sour
 Within this context, the central question is not product differentiation, but feasibility:
 
 **How can heterogeneous AI agents participate in shared operational workflows without violating organizational boundaries, regulatory requirements, or responsibility allocation?**
+
+This work is grounded in a systems engineering background, spanning embedded systems, software infrastructure, applied AI systems, and civic technologies.
 
 ---
 
