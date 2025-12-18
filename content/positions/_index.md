@@ -20,6 +20,16 @@ Readers unfamiliar with these assumptions may wish to consult [*Foundational ass
 
 For an overview of how these positions relate, see [Overview: Executable Semantic Order](/overview/executable-semantic-order/).
 
+## Operating Context
+
+The current execution environment for these positions is cross-border trade.
+
+This domain functions as a high-friction testbed for validating accountable AI workforce systems under real regulatory, jurisdictional, and economic constraints.
+
+While individual positions may address governance, execution, or institutional design in isolation, they are developed and tested within a broader objective: the construction of **AI Workforce Infrastructure**—foundational systems that allow organizations to deploy, govern, and audit AI workforces as part of their core operations.
+
+Cross-border trade provides the conditions necessary to stress-test these assumptions without prematurely constraining the architecture to a single industry or product form.
+
 ## Recommended Reading Order
 
 For first-time readers:
