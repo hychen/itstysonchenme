@@ -13,6 +13,8 @@ in high-friction operational environments,
 including cross-border trade workflows
 where execution produces irreversible institutional effects.
 
+This model is derived from direct experience with production systems, failure modes, and irreversibility in real execution environments.
+
 ---
 
 ## Scope
