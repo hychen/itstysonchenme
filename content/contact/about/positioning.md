@@ -56,6 +56,15 @@ foundational systems that allow organizations to deploy, govern, and audit AI wo
 
 Commercial activity exists at the testbed level, while the primary objective remains the stabilization of infrastructure primitives that generalize beyond a single industry.
 
+My sensitivity to execution and coordination was later reshaped through embodied practice, particularly social partner dance.
+
+Unlike purely output-driven systems, social dance revealed how stable interaction depends on co-semantic timing, mutual allowance, and the ability to withhold premature control.
+
+These experiences clarified a core distinction in my work:  
+logical systems can infer, but relational systems require permission.
+
+This distinction continues to inform how I think about agent subjectivity, human–machine collaboration, and the design of systems that must remain stable without collapsing interaction into unilateral execution.
+
 ---
 
 ## 5. External Containment Requirement

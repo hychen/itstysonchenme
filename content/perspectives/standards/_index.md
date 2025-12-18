@@ -13,3 +13,6 @@ Topics in this section include:
 - Governance models for multi-agent systems and machine-level accountability  
 
 The focus is not policy advocacy, but the **technical shape of governance**—how rules, delegation, and verification become machine-interpretable structures.
+
+This section includes foundational risk definitions and interactional conditions
+that inform governance, execution, and regulatory alignment across semantic agent systems.
