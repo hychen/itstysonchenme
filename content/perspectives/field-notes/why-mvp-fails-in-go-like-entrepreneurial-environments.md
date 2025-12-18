@@ -48,6 +48,15 @@ When interpreted through an MVP lens, stochastic variance is mistaken for valida
 This does not suggest that experimentation is unnecessary.  
 It suggests that minimality must be applied to survivability rather than to product scope.
 
+In go-like environments, evaluation is not primarily a question of speed.  
+It is a question of responsibility.
+
+When actions accumulate irreversible consequences, premature validation does not merely risk inefficiency.  
+It risks externalizing cost onto future participants, institutions, or systems that have no ability to consent.
+
+Under such conditions, restraint is not conservatism.  
+It is an ethical requirement imposed by the structure of the environment itself.
+
 This limitation becomes especially pronounced in agent-based systems.
 
 Agents are not products in isolation.  
@@ -63,6 +72,19 @@ but because the properties that matter—reliability, alignment, accountability,
 
 In go-like environments, reducing an agent to an MVP removes precisely the structures required for meaningful assessment.  
 What remains is an artifact incapable of exhibiting long-horizon behavior, interactional stability, or governance integrity.
+
+The relevant unit of validation is not a product, but a minimally survivable structure.
+
+In these environments, time is not a feedback channel.  
+It is a precondition.
+
+The absence of early signal does not imply the absence of value.  
+It often indicates that the system has not yet accumulated sufficient structural coherence for value to become legible.
+
+Agents are therefore not well-suited to demonstration-driven validation.
+
+They are not designed to be proven in isolation, but to be lived with under constraint.  
+Their legitimacy emerges from repeated exposure to real conditions, not from staged interaction or feature display.
 
 This leads to a recurring misdiagnosis:  
 agents are judged ineffective when they are, in fact, evaluated before their execution context exists.
@@ -86,3 +108,9 @@ but a category error in its application.
 
 MVP is a tool for environments where local evaluation is meaningful.  
 When applied to systems where meaning emerges only through time and interaction, it obscures rather than reveals the path forward.
+
+It rewards interpretive skill in environments where interpretation is precisely what should be delayed.
+
+In environments where meaning emerges only through sustained interaction,  
+survival is not the absence of failure.  
+It is the condition that makes understanding possible at all.
