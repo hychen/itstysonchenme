@@ -13,7 +13,9 @@ This work is grounded in hands-on systems engineering experience across physical
 
 My work does not follow a conventional academic trajectory; it emerged from sustained engagement with operational systems, where technical understanding was developed through self-directed study driven by practical necessity rather than academic abstraction.
 
-My approach is shaped by direct exposure to environments where execution errors carry material, operational, or social consequences, informing a focus on semantics as a governing structure rather than an interpretive layer.
+My approach is shaped by direct exposure to environments where execution errors carry immediate material, operational, or physical consequences, leading to a focus on semantics as a governing structure rather than an interpretive layer.
+
+This experience informs how I think about execution, risk, and responsibility in computational systems: decisions are made under constraint, feedback is not deferred, and errors cannot be abstracted away after the fact.
 
 ---
 
