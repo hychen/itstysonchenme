@@ -11,7 +11,9 @@ My research investigates the structural conditions under which semantics can fun
 
 This work is grounded in hands-on systems engineering experience across physical infrastructure and computational systems, including manufacturing processes, embedded and networked systems, data center operations, software infrastructure, applied AI systems, and civic technology.
 
-My approach is shaped by direct exposure to environments where execution errors carry material, operational, or social consequences, informing a focus on semantics as a governing structure rather than an interpretive abstraction.
+My work does not follow a conventional academic trajectory; it emerged from sustained engagement with operational systems, where technical understanding was developed through self-directed study driven by practical necessity rather than academic abstraction.
+
+My approach is shaped by direct exposure to environments where execution errors carry material, operational, or social consequences, informing a focus on semantics as a governing structure rather than an interpretive layer.
 
 ---
 
