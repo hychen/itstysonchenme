@@ -8,6 +8,11 @@ the human subject must remain explicit.
 
 → [The Human Common Oath](/rituals/)
 
+This execution model is instantiated and stress-tested
+in high-friction operational environments,
+including cross-border trade workflows
+where execution produces irreversible institutional effects.
+
 ---
 
 ## Scope

@@ -42,4 +42,12 @@ It is motivated by the conviction that meaning must become operational if comple
 
 ---
 
-This page provides contextual grounding.
+## Operating Context
+
+For readers interested in collaboration, institutional engagement, or applied deployment,  
+a separate page outlines how this work currently operates across research, infrastructure development, and real-world testbeds.
+
+See: [Positioning](/contact/about/positioning)
+
+This page provides personal and conceptual grounding.  
+Operational context is described separately.
