@@ -32,7 +32,7 @@ Foundational research notes, formulations, and structural analyses directly rela
 ### Semantic Structures and Architectures
 Materials focusing on structural primitives such as semantic instruction architectures, agent interfaces, identity models, and traceability mechanisms.
 
-→ [View collection on figshare](https://figshare.com/your-structures-collection-link)
+→ [View collection on figshare](https://figshare.com/account/mycontent/collections/8211020)
 
 ---
 
