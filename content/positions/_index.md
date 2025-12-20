@@ -16,9 +16,13 @@ These assumptions are not restated in full here and summarized below and treated
 6. **High-friction domains are primary validation environments**.
 7. **Agent execution presupposes persistent identity and semantic stability.**
 
-Readers unfamiliar with these assumptions may wish to consult [*Foundational assumptions*](/perspectives/foundations/working-assumptions) before proceeding.
+This work proceeds from a set of explicit foundational assumptions.
 
-For an overview of how these positions relate, see [Overview: Executable Semantic Order](/overview/executable-semantic-order/).
+Readers unfamiliar with these assumptions may consult [*Foundational assumptions*](/perspectives/foundations/working-assumptions)
+as background context.
+
+For a structural overview of how these positions, assumptions, and downstream architectures relate, see 
+[Overview: Executable Semantic Order](/overview/executable-semantic-order/).
 
 ## Operating Context
 

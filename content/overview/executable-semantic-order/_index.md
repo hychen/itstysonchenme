@@ -1,6 +1,7 @@
 ---
 title: "Executable Semantic Order Overview"
 description: "Structural conditions for making semantics executable, auditable, and composable across agents and systems."
+weight: 10
 ---
 
 Semantic execution has become unavoidable.
@@ -125,6 +126,27 @@ one in which organizations operate through
 **executable semantic chains** rather than manual workflows.
 
 → [Economics: AI-Native Economy](economics/ai-native-economy)
+
+## Relationship to Pre-Institutional Evaluation
+
+Executable Semantic Order presumes that institutional commitment
+has already occurred.
+
+It does not evaluate whether an idea, system, or venture
+should be institutionalized,
+nor does it assess the legitimacy of fixing meaning,
+roles, or obligations.
+
+Its scope begins only after those commitments become binding,
+and focuses exclusively on the conditions
+under which semantic commitments
+may enter execution, verification, and coordination
+without loss of accountability.
+
+Questions of whether institutionalization is appropriate,
+premature, or structurally harmful
+belong to an earlier stage of inquiry:
+[Pre-Institutional Due Diligence](/overview/pre-institutional-due-diligence/).
 
 ---
 
