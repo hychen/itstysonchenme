@@ -98,3 +98,11 @@ and syntax becomes the runtime.
 
 Validation no longer means shipping a demo.
 It means shipping a grammar.
+
+---
+
+*Note*:  
+This piece addresses **structural viability prior to institutional commitment**.
+It does not propose an execution strategy,
+but evaluates which structures must stabilize
+before institutionalization becomes admissible.
