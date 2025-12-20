@@ -43,3 +43,5 @@ this site will likely feel incomplete.
 - **Contact**  
   Only if you are engaging at the level of execution or responsibility.  
   → `/contact/`
+
+This work operates downstream of pre-institutional structural evaluation.
