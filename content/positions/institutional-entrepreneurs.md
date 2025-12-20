@@ -135,3 +135,11 @@ nor argue for legitimacy.
 
 It marks an emerging structural condition
 and leaves its political interpretation open.
+
+---
+
+*Note*:  
+This position is formulated at the **pre-institutional evaluation layer**.
+It assesses whether market structures
+are sufficiently institutionalized
+to support conventional economic measurement.
