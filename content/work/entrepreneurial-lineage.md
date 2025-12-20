@@ -182,6 +182,119 @@ The AI Workforce OS is therefore not a greenfield invention,
 but a system-level resolution
 to constraints encountered repeatedly across independent ventures.
 
+## SlashLife AI: Initial Scope and Subsequent Pivot
+
+SlashLife AI was initially conceived as an AI collaboration platform
+for independent fitness coaches.
+
+The fitness domain was chosen deliberately:
+it combines irreversible time commitments,
+physical risk,
+high trust requirements,
+and asymmetric responsibility between practitioners and clients.
+
+In this sense, the fitness industry functioned as a
+high-friction validation environment
+for human–AI collaboration under real-world consequence.
+
+However, as the system architecture matured,
+it became clear that the core problems being addressed
+were not fitness-specific.
+
+They concerned:
+
+- coordination among independent operators,
+- delegation and responsibility attribution,
+- long-running execution under constraint,
+- and collaboration between humans and AI agents.
+
+At that point, retaining a single industry focus
+became a limitation rather than an advantage.
+
+A conscious pivot was therefore made:
+to generalize the system into a **domain-agnostic AI Workforce Operating System**,
+capable of supporting multiple independent professionals and AI agents
+across industries.
+
+The fitness-coach framing was retained as an origin context,
+but no longer defined the system’s scope.
+
+The decisive pivot of SlashLife AI was not driven by abstract repositioning,
+but by concrete execution proofs.
+
+During the fitness-coach phase, several system-level proof-of-concepts were implemented
+that fundamentally altered the scope of the project.
+
+### EUDI Wallet and Agent-Bound Assets
+
+An early implementation integrated **EUDI Wallet–compatible identity models**
+to explore whether agents—not only humans—could hold credentials,
+permissions, and assets.
+
+This shifted identity from account-based access
+to **responsibility-bound execution authority**.
+
+In this model:
+- agents could hold verifiable credentials,
+- asset custody could be delegated,
+- and execution authority could be traced independently of user interfaces.
+
+This directly extended earlier explorations around
+identity-bound assets and delegated agency.
+
+### Physical Execution: Treadmill and Human-in-the-Loop Control
+
+A second proof-of-concept connected AI agents to a physical treadmill system.
+
+This experiment was intentionally constrained and mundane,
+yet revealing:
+agent decisions now produced **irreversible physical effects**,
+requiring explicit safety boundaries,
+delegation limits,
+and human override semantics.
+
+The treadmill PoC demonstrated that:
+- agent execution cannot be treated as advisory,
+- physical systems impose non-negotiable responsibility,
+- and execution order matters more than model intelligence.
+
+### Agent Execution as a First-Class Primitive
+
+A third proof-of-concept focused on AI agents as executable entities,
+capable of receiving delegated tasks,
+maintaining state,
+and operating across time rather than per-interaction.
+
+At this point, it became evident that:
+agent execution, identity, memory, and responsibility
+could not remain features within an application.
+
+They constituted **operating system–level primitives**.
+
+### Crossing the OS Boundary
+
+These proofs forced a clear architectural conclusion:
+
+If SlashLife AI remained scoped to a single vertical,
+core constructs such as agent identity,
+wallets,
+execution state,
+and responsibility attribution
+would be artificially constrained as product features.
+
+Yet their behavior clearly belonged at the system layer.
+
+The pivot was therefore unavoidable.
+
+SlashLife AI transitioned from:
+- an industry-specific AI collaboration platform  
+to  
+- a **domain-agnostic AI Workforce Operating System**.
+
+The fitness-coach context remained as an origin and validation environment,
+but the system’s true scope became explicit:
+**coordinating human and AI labor under enforceable execution, identity, and responsibility constraints**.
+
 ---
 
 ## Closing Note
