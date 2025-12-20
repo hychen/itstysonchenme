@@ -47,6 +47,7 @@ Exploratory notes and technical artifacts related to system-level projections, i
 Working materials and commentaries related to standards activities, interoperability discussions, and technical clarifications.
 
 → [View collection on figshare](https://figshare.com/account/mycontent/collections/8212391)
+
 ---
 
 ## Note on Scope
