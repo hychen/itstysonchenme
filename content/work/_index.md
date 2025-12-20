@@ -3,7 +3,8 @@ title: "Work"
 description: "Contexts in which executable semantic order is instantiated under real-world constraints."
 ---
 
-This section documents how **executable semantic order** is instantiated
+This section documents contexts in which **executable semantic order**
+was forced to become instantiated
 through systems, ventures, and institutional engagements.
 
 I build and operate environments in which semantic commitments are required to become executable, inspectable, and durable under real organizational and regulatory constraints.
