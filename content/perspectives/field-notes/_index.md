@@ -13,3 +13,10 @@ Field Notes may include:
 - Trends that indicate where semantic execution is most urgently needed  
 
 These documents do not define frameworks. They provide perception and context for interpreting the broader environment.
+
+---
+
+*Note*:  
+This analysis operates at the **pre-institutional evaluation stage**.
+It examines whether certain forms of institutionalization
+should occur at all, prior to questions of execution or optimization.
