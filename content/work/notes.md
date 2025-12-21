@@ -25,8 +25,7 @@ Canonical versions, metadata, and version history are maintained on [figshare](h
 ### Executable Semantic Order — Core Materials
 Foundational research notes, formulations, and structural analyses directly related to executable semantic order.
 
-→ [View collection on figshare](https://figshare.com/account/mycontent/collections/8212385)
-
+→ [View collection on figshare](https://doi.org/10.6084/m9.figshare.c.8212385)
 ---
 
 ### Semantic Structures and Architectures
@@ -39,14 +38,14 @@ Materials focusing on structural primitives such as semantic instruction archite
 ### Systems, Agents, and Governance
 Exploratory notes and technical artifacts related to system-level projections, including agent execution models, governance mechanisms, and organizational contexts.
 
-→ [View collection on figshare](https://figshare.com/account/mycontent/collections/8212388)
+→ [View collection on figshare](https://doi.org/10.6084/m9.figshare.c.8212388)
 
 ---
 
 ### Standards and Technical Notes
 Working materials and commentaries related to standards activities, interoperability discussions, and technical clarifications.
 
-→ [View collection on figshare](https://figshare.com/account/mycontent/collections/8212391)
+→ [View collection on figshare](https://doi.org/10.6084/m9.figshare.c.8212391)
 
 ---
 
