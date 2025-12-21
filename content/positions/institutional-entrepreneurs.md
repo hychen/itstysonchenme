@@ -105,6 +105,25 @@ The distinction between “building a company”
 and “building an institution”
 can no longer be taken for granted.
 
+--
+
+## Agent-based Executable Person as a New Institutional Unit
+
+For operators familiar with multi-entity fund structures,  
+the logic here is not novel.
+
+Hedge fund structures routinely combine multiple legal entities—often across jurisdictions—to isolate risk, allocate responsibility, and optimize execution. Each entity serves a specific functional role within a broader institutional system.
+
+What we introduce is a shift at the execution layer.
+
+Instead of a human-operated operating entity, the execution role is instantiated as an AI agent: a role that can receive instructions, incur costs, submit expenses, execute actions, and be held accountable within defined boundaries.
+
+From this perspective, an AI agent functions as an *Agent-based Executable Person*:  
+a non-human institutional unit designed for delegated execution rather than legal personhood.
+
+The underlying risk–reward logic remains unchanged.  
+What changes is the substrate of execution—human operators are replaced by executable agents, while responsibility, auditability, and institutional constraints are preserved.
+
 ---
 
 ## Relation to Semantic Systems
