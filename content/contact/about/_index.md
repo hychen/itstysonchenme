@@ -3,8 +3,6 @@ title: "About"
 description: "Researcher and founder working on executable semantic order."
 ---
 
-> 秩序是為了守護那些秩序無法觸及的東西。
-
 I work on the construction of **executable semantic order**.
 
 I publish and work under the name Hsin Yi (Tyson) Chen.
