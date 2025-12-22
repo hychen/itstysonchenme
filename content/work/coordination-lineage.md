@@ -472,11 +472,14 @@ Observed patterns include:
   without corresponding equity,
   authority, or long-term upside.
 
-- **The co-founder role as implicit employment**  
-  In some structures,
-  co-founders function operationally as senior employees
-  while bearing asymmetric personal risk
-  without meaningful strategic control.
+- **The co-founder role as diluted founder responsibility**  
+  In some structures, individuals labeled as co-founders
+  operate with employee-like risk tolerance and accountability,
+  without assuming the concentrated responsibility
+  typically required at the founder level.
+  This diffuses decision ownership
+  and weakens the system’s ability
+  to absorb and respond to failure.
 
 - **Investor-driven structural expectations**  
   External investors often favor multi-founder appearances
