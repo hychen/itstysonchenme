@@ -1,7 +1,7 @@
 ---
 title: Semantic Order in Semiconductor Collaboration (2030)
 subtitle: An operational forecast for cross-border manufacturing under executable semantic constraints
-date: 2030-forecast
+date: 2025-12-22
 category: foresight
 status: working-forecast
 ---
