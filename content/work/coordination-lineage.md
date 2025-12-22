@@ -11,7 +11,7 @@ summary: >
 
 ## Why this document exists
 
-This document is not an advocacy statement.
+This document is not an advocacy statement or position statement.
 
 It records where coordination has been observed to fail, mutate, or stall
 across different organizational forms—formal institutions, markets,
