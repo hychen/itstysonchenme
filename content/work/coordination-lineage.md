@@ -423,23 +423,7 @@ Across domains, a consistent fault line appeared:
 
 This gap is structural rather than incidental.
 
----
 
-## What this lineage does *not* claim
-
-This document does not imply preference
-for any single organizational model.
-
-It does not argue for decentralization over hierarchy,
-nor markets over institutions.
-
-It reflects sustained exposure to coordination
-as a design and execution problem,
-where structure, incentives,
-and responsibility boundaries
-matter more than ideology.
-
----
 
 ## Commercial organizations: presence, ownership, and innovation friction
 
@@ -539,6 +523,22 @@ These experiences inform how I approach:
 They explain why coordination models
 are treated as engineering decisions
 rather than moral positions.
+
+---
+
+## What this lineage does *not* claim
+
+This document does not imply preference
+for any single organizational model.
+
+It does not argue for decentralization over hierarchy,
+nor markets over institutions.
+
+It reflects sustained exposure to coordination
+as a design and execution problem,
+where structure, incentives,
+and responsibility boundaries
+matter more than ideology.
 
 ---
 
