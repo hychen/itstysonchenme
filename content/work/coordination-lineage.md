@@ -472,14 +472,12 @@ Observed patterns include:
   without corresponding equity,
   authority, or long-term upside.
 
-- **The co-founder role as diluted founder responsibility**  
-  In some structures, individuals labeled as co-founders
-  operate with employee-like risk tolerance and accountability,
-  without assuming the concentrated responsibility
-  typically required at the founder level.
-  This diffuses decision ownership
-  and weakens the system’s ability
-  to absorb and respond to failure.
+- **Role labeling without corresponding risk consolidation**  
+  The co-founder designation may be applied
+  without a matching consolidation of decision authority,
+  accountability, and downside exposure,
+  resulting in fragmented ownership of risk
+  and reduced decisiveness under uncertainty.
 
 - **Investor-driven structural expectations**  
   External investors often favor multi-founder appearances
