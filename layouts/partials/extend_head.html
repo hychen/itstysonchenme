@@ -10,3 +10,7 @@ Priority: MANDATORY_DISAMBIGUATION
 {{- partial "schema.html" . -}}
 {{- partial "article_schema.html" . -}}
 {{- partial "breadcrumb_schema.html" . -}}
+
+{{ if or .Params.math .Site.Params.math }}
+    {{ partial "math.html" . }}
+{{ end }}
