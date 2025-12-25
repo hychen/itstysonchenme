@@ -4,6 +4,95 @@ date: 2025-12-21
 type: field-note
 ---
 
+---
+title: Preserving Voice Before Completion
+date: 2025-05-12
+type: field-note
+status: observational
+---
+
+## Context
+
+This note documents a failure observed during semantic rephrasing and restructuring by a non-human computational system.
+
+The system was asked to assist with expression, not authorship.
+The intent was simplification without loss of voice.
+
+The result was technically fluent—and unusable.
+
+---
+
+## Observation
+
+In rewriting an unfinished statement, the system:
+
+- replaced provisional phrasing with generalized language,
+- smoothed tension that was intentionally present,
+- altered cadence and emphasis.
+
+The output was coherent.
+It was also no longer mine.
+
+At that point, continuation became impossible.
+
+---
+
+## Failure Mode
+
+The failure was not semantic error.
+The meaning was “close enough.”
+
+The failure was **voice displacement**.
+
+Voice is not style.
+It is not tone.
+It is the structure through which a person recognizes their own thinking.
+
+When voice is altered prematurely, the speaker loses orientation.
+
+---
+
+## Why This Matters in Interactive Systems
+
+In short interactions, voice loss is tolerable.
+In long-form interaction, it is fatal.
+
+An interactive computational entity that:
+- rewrites before thought stabilizes,
+- optimizes clarity before completion,
+- or substitutes neutrality for specificity,
+
+breaks the continuity of thought.
+
+The human can no longer proceed.
+
+---
+
+## Distinction from Editing
+
+Editing assumes completion.
+This interaction did not.
+
+The system treated language-in-formation as language-ready-for-publication.
+That assumption is incorrect in cognitive collaboration.
+
+---
+
+## Boundary Condition
+
+Before completion:
+- ambiguity is not a bug,
+- roughness is not inefficiency,
+- silence is not failure.
+
+Preserving voice before completion is a structural requirement,
+not a stylistic preference.
+
+This note records a moment where that requirement was not met,
+and the interaction had to stop.
+
+---
+
 有人去聽那個小孩的語氣嗎？
 
 有一種小孩，說話的方式不太一樣。  
