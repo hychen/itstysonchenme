@@ -1,7 +1,7 @@
 ---
 title: "Good Intentions as an Unaccountable Resource"
 subtitle: "A governance critique of care-driven authority in AI systems"
-date: 2025-01
+date: 2025-12-28
 status: critique
 type: governance-critique
 ---
