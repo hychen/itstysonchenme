@@ -1,6 +1,6 @@
 ---
 title: Why First Principles Cannot Be Learned from Data
-date: 2025-05-12
+date: 2025-12-28
 type: field-note
 status: foundational
 ---
