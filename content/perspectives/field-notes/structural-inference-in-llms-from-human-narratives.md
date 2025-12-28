@@ -1,5 +1,5 @@
 ---
-title: "Field Note: Structural Inference in LLMs from Human Relationship Narratives"
+title: "Structural Inference in LLMs from Human Relationship Narratives"
 date: 2025-12-25
 draft: false
 tags:
