@@ -48,3 +48,4 @@ For first-time readers:
 8. Executable Semantic Order  
 9. Semantic ISA  
 10. Accountability, Reproducibility, and Trust in AI
+11. Completion Is Not Neutral
