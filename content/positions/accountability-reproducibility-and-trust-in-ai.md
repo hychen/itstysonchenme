@@ -140,3 +140,6 @@ Among these, reproducibility is the operational keystone.
 Without it, accountability collapses into rhetoric.
 
 As AI systems scale into infrastructure, reproducibility will determine not only technical reliability, but institutional trust.
+
+Accountability requires closure.
+But closure has a cost.
