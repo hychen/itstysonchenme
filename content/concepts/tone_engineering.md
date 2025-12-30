@@ -88,6 +88,9 @@ Tone Engineering is applicable wherever language functions as an execution inter
 
 In such environments, tone functions as an implicit contract governing how output should be read, acted upon, or deferred.
 
+Tone Engineering operates within a Narrative Line.
+Without narrative anchoring, tone becomes noise optimization.
+
 ## Status
 
 This concept is considered stable.

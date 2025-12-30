@@ -15,6 +15,8 @@ where execution produces irreversible institutional effects.
 
 This model is derived from direct experience with production systems, failure modes, and irreversibility in real execution environments.
 
+Execution is evaluated not by task completion, but by narrative progression under rhythmic governance.
+
 ---
 
 ## Scope
@@ -64,3 +66,5 @@ It explicitly refuses:
 - implicit execution
 - silent side effects
 - best-effort completion without accountability
+
+Execution is evaluated not by task completion, but by narrative progression under rhythmic governance.
