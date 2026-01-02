@@ -1,5 +1,5 @@
 ---
-title: "Chess, Go, and Poker: Decision Grammar Under Uncertainty"
+title: "Chess, Go, and Poker: Decision Under Uncertainty"
 date: 2025-12-18
 categories: ["field-notes"]
 tags: ["decision-grammar", "uncertainty", "execution", "entrepreneurship"]
